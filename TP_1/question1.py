@@ -1,6 +1,6 @@
 import nltk
 from nltk.tokenize import word_tokenize
-import numpy as np
+
 
 ############## Question 1 ###############
 
@@ -9,21 +9,20 @@ fileOut = "wsj_0010_sample.txt.pos.nltk"
 
 # Ouvrir le fichier en lecture seule
 file = open(fileIn, "r")
+fileO = open(fileOut, "w")
 for line in file:
     
     text = word_tokenize(line)
    
     tokens_tag = nltk.pos_tag(text)
-       
-file.close()
-
-fileO = open(fileOut, "w")
-for pair in tokens_tag :
-    for elt in pair:
-        fileO.write(elt+'\t')
-        
-    fileO.write('\n')
+    
+    for pair in tokens_tag :
+        fileO.write('\t'.join(pair))  
+        fileO.write('\n')
 fileO.close()
+file.close()   
+
+
 
 
 

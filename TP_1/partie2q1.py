@@ -32,17 +32,11 @@ for line in file:
     print(result)
     
     #result.draw()    # It will draw the pattern graphically which can be seen in Noun Phrase chunking 
-        
-    fileO.write(result)
+    
+    for tree in result.subtrees() :
+        if tree.label() == "Compound":
+            fileO.write(str(tree))
+            fileO.write("\n")
 
-    # for res in result :
-    #     print(res)
-    #     # on teste que c'est bien un tuple
-    #     if(type(res) is tuple):
-    #         fileO.write(res[0]+'\t'+res[1])  
-    #         fileO.write('\n')
-    #     else :
-    #         fileO.write(res)
-    #         fileO.write('\n')
 fileO.close()
 file.close()   

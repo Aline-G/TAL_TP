@@ -1,0 +1,9 @@
+
+
+TP1
+NLTK utilise des règles et lexiques
+basé sur un perceptron/modèle neuronnal
+
+
+TP2
+Stanford CoreNLP

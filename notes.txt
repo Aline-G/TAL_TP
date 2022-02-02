@@ -7,3 +7,4 @@ basé sur un perceptron/modèle neuronnal
 
 TP2
 Stanford CoreNLP
+etiquettes PTB

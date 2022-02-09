@@ -8,3 +8,8 @@ basé sur un perceptron/modèle neuronnal
 TP2
 Stanford CoreNLP
 etiquettes PTB
+
+
+Rendu des TP
+mettre pour chaque exo et question quelle commande on a éxécuté
+--> écrire cf les photos des résultats

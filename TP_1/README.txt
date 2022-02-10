@@ -14,7 +14,7 @@ Les résultats de cette question sont écrits dans les fichiers "wsj_0010_sample
 3b) python evaluate.py wsj_0010_sample.txt.pos.univ.nltk wsj_0010_sample.txt.pos.univ.ref
 Les résultats obtenus correspondent à l'image appelée "resultats_perf_Q3.png"
 
-3c) On remarque que le fait d'avoir utilisé les étiquettes de Penn TreeBank rend les résultats obtenus un peu meilleur.
+3c) On remarque que le fait d'avoir utilisé les étiquettes de Penn TreeBank rend les résultats obtenus un peu meilleurs.
 Ce qui signifie que avec ces étiquettes il y a moins d'erreurs dans la détermination des étiquettes de chaque token.
 
 
@@ -22,7 +22,7 @@ Partie II
 1) python .\partie2q1.py
 Les résultats de cette question sont écrits dans le fichier "wsj_0010_sample.txt.chk.nltk"
 
-2)
+2) Il suffit de changer le nom de la grammaire appelée dans la ligne 30 ("cp  = nltk.RegexpParser(grammar)")
 
 
 Partie III

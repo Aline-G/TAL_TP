@@ -1,5 +1,5 @@
 TP 1 
-Faire la commande cd TP_1 dans le terminal pour pouvoir éxécuter toutes les commandes suivantes
+Faire la commande cd TP_1 dans le terminal pour pouvoir éxécuter toutes les commandes suivantes.
 
 Partie I
 1) python .\question1.py

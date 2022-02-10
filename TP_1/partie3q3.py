@@ -6,8 +6,8 @@ from nltk import ne_chunk
 
 ############## Question 1 ###############
 
-fileIn = "wsj_0010_sample.txt"
-fileOut = "wsj_0010_sample.txt.ne.nltk"
+fileIn = "formal-tst.NE.key.04oct95_sample.txt"
+fileOut = "formal-tst.NE.key.04oct95_sample.txt.ne.nltk"
 
 # Ouvrir le fichier en lecture seule
 file = open(fileIn, "r")

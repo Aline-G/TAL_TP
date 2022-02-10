@@ -15,7 +15,7 @@ Les résultats de cette question sont écrits dans les fichiers "wsj_0010_sample
 Les résultats obtenus correspondent à l'image appelée "resultats_perf_Q3.png"
 
 3c) On remarque que le fait d'avoir utilisé les étiquettes de Penn TreeBank rend les résultats obtenus un peu meilleur.
-Ce qui signifie que avec ces étiquettes iil y a moins d'erreurs dans la détermination des étiquettes de chaque token.
+Ce qui signifie que avec ces étiquettes il y a moins d'erreurs dans la détermination des étiquettes de chaque token.
 
 
 Partie II

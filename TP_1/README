@@ -1,0 +1,17 @@
+TP 1 
+Faire la commande cd TP_1 dans le terminal pour pouvoir éxécuter toutes les commandes suivantes
+
+Partie I
+1) python .\question1.py
+Les résultats de cette question sont écrits dans le fichier "wsj_0010_sample.txt.pos.nltk"
+
+2) python evaluate.py wsj_0010_sample.txt.pos.nltk wsj_0010_sample.pos.ref
+Les résultats obtenus correspondent à l'image appelée "resultats_perf_Q2.png"
+
+3a) python .\question3.py 
+Les résultats de cette question sont écrits dans les fichiers "wsj_0010_sample.txt.pos.univ.nltk" et "wsj_0010_sample.txt.pos.univ.ref"
+
+3b) python evaluate.py wsj_0010_sample.txt.pos.univ.nltk wsj_0010_sample.txt.pos.univ.ref
+Les résultats obtenus correspondent à l'image appelée "resultats_perf_Q3.png"
+
+3c) 

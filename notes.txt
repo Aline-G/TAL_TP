@@ -13,3 +13,22 @@ etiquettes PTB
 Rendu des TP
 mettre pour chaque exo et question quelle commande on a éxécuté
 --> écrire cf les photos des résultats
+
+
+PROJET:
+
+Comment évaluer un PosTagger ou un NE recognizer?
+
+TP : Le nombre de mots étiquetés correctement par les experts
+FN : Le mot n'a pas été étiqueté (aucune étiquette)
+FP : Le mot n'a pas été étiqueté correctement
+TN : LEs occurences ont été catégorisées comme des instances normales
+
+Précision : Le ratio entre les étiquettes correctement étiquetées et l'ensemble des mots étiquetés
+
+Précision = TP/(TP+FP)
+
+Rappel : Ratio entre tous les exemples (Mots) correctement étiquetés avec tous les exemples (mots) étiquetés par les experts
+
+Rappel = TP/(TP+FN)
+

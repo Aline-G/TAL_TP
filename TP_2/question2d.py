@@ -8,7 +8,7 @@ fileOutRef = open("wsj_0010_sample.txt.pos.univ.ref","w")
 
 my_dico = {}
 
-#on crée une sorte de hashmap à partir des tag de reference
+#on crée un dictionnaire à partir des tag de reference
 for line in fileTag:
     tuples = line.split()
     my_dico[tuples[0]] = tuples[1]

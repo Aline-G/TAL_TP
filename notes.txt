@@ -32,3 +32,30 @@ Rappel : Ratio entre tous les exemples (Mots) correctement étiquetés avec tous
 
 Rappel = TP/(TP+FN)
 
+
+Plan du RAPPORT :
+
+1 - Introduction : TAL, outil de tal, métrique d'évaluation, Tâches à traiter (Pos tagging + NE recognition)
+
+2 - Présentation des platformes d'analyses linguistique 
+            Voir la documentation sur NLTK et CoreNlp (à base de règle , statistiques , neuronales)
+
+3 - Evaluation de l'analyse morpho - syntaxique (pos tagging)
+            - Corpus(dataset)
+            - Metrique(Précision, rappel ...)
+
+4 - Evaluation de la reconnaissance d'entité nommée (Ne recognition)
+            - Corpus(dataset)
+            - Metriques
+
+5  - Points forts de chaque platforme, limitations et difficultées rencontrées (Pbs d'installation, Pbs de métrique)
+
+Annexes : 
+Sujets 2 
+Expérimentaiton en plus 
+Corection sur les corpus 
+Captures d'écrans
+
+
+
+

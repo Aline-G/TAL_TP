@@ -35,10 +35,12 @@ def createhash(fileIn, fileOut):
             else:
                 my_dico[word] = [etiquette, 1, 1]
     fileI.close()
-    # Pensez à diviser la "Proportion dans le texte" par le compteur
-    print(my_dico)
-    #ecrire dans le fichier texte fileO le dictionnare
     
+    # ecriture dans le fichier texte fileO du dictionnare
+    fileO.write("Entite nommee"+"\t"+"Type"+"\t"+"Nombre d occurrences"+"\t"+"Proportion dans le texte (%)"+"\n")
+    for elt in my_dico:
+        fileO.write(elt+"\t"+"\t"+my_dico[elt][0]+"\t"+"\t"+str(my_dico[elt][1])+"\t"+"\t"+str(my_dico[elt][2]/compteur)+"\n")
+    fileO.close()
 
 
 

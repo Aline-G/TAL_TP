@@ -23,5 +23,5 @@ Partie II
 Les résultats de cette question sont écrits dans le fichier "formal-tst.NE.key.04oct95_small.txt.ne.stanford"
 
 2b) python .\partie2questionb.py
-
+Les résultats de cette question sont écrits dans le fichier "res_partie2_question2b"
 

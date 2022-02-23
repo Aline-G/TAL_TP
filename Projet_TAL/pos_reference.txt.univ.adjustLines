@@ -1,9 +1,9 @@
 Pierre Vinken 	NOUN
-
+remplissage NOUN
 , 	.
 61 years old 	ADJ
-
-
+remplissage ADJ
+remplissage ADJ
 , 	.
 will 	VERB
 join 	VERB
@@ -14,7 +14,7 @@ a 	DET
 nonexecutive 	ADJ
 director 	NOUN
 Nov. 29 	NOUN
-
+remplissage NOUN
 . 	.
 Mr. 	NOUN
 Vinken 	NOUN
@@ -30,19 +30,19 @@ publishing 	VERB
 group 	NOUN
 . 	.
 Rudolph Agnew 	NOUN
-
+remplissage NOUN
 , 	.
 55 years old 	ADJ
-
-
+remplissage ADJ
+remplissage ADJ
 and 	CONJ
 former 	ADJ
 chairman 	NOUN
 of 	ADP
 Consolidated Gold Fields PLC 	NOUN
-
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 , 	.
 was 	VERB
 named 	VERB
@@ -83,9 +83,9 @@ exposed 	VERB
 to 	ADP
 it 	PRON
 more than 	DET
-
+remplissage DET
 30 years 	NOUN
-
+remplissage NOUN
 ago 	ADV
 , 	.
 researchers 	NOUN
@@ -116,7 +116,7 @@ causing 	VERB
 symptoms 	NOUN
 that 	CONJ
 show up 	VERB
-
+remplissage VERB
 decades 	NOUN
 later 	ADJ
 , 	.
@@ -124,17 +124,17 @@ researchers 	NOUN
 said 	VERB
 . 	.
 Lorillard Inc. 	NOUN
-
+remplissage NOUN
 , 	.
 the 	DET
 unit 	NOUN
 of 	ADP
 New York 	NOUN
-
+remplissage NOUN
 - 	.
 based 	VERB
 Loews Corp. 	NOUN
-
+remplissage NOUN
 that 	CONJ
 makes 	VERB
 Kent 	NOUN
@@ -157,7 +157,7 @@ findings 	NOUN
 were 	VERB
 reported 	VERB
 more than 	DET
-
+remplissage DET
 a 	DET
 year 	NOUN
 ago 	ADV
@@ -168,11 +168,12 @@ results 	NOUN
 appear 	VERB
 in 	ADP
 today's 	NOUN
+remplissage NOUN
 New England Journal of Medicine 	NOUN
-
-
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 , 	.
 a 	DET
 forum 	NOUN
@@ -200,7 +201,7 @@ story 	NOUN
 We 	PRON
 're 	VERB
 talking about 	VERB
-
+remplissage VERB
 years 	NOUN
 ago 	ADV
 before 	ADP
@@ -247,7 +248,7 @@ cigarettes 	NOUN
 `` 	.
 We 	PRON
 have on 	VERB
-
+remplissage VERB
 no 	DET
 useful 	ADJ
 information 	NOUN
@@ -260,14 +261,15 @@ risk 	NOUN
 " 	.
 said 	VERB
 James A. Talcott 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 of 	ADP
 Boston's 	NOUN
+remplissage NOUN
 Dana Farber Cancer Institute 	NOUN
-
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 . 	.
 Dr. 	NOUN
 Talcott 	NOUN
@@ -279,18 +281,18 @@ researchers 	NOUN
 from 	ADP
 the 	DET
 National Cancer Institute 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 and 	CONJ
 the 	DET
 medical 	ADJ
 schools 	NOUN
 of 	ADP
 Harvard University 	NOUN
-
+remplissage NOUN
 and 	CONJ
 Boston University 	NOUN
-
+remplissage NOUN
 . 	.
 The 	DET
 Lorillard 	NOUN
@@ -314,7 +316,7 @@ filters 	NOUN
 in 	ADP
 the 	DET
 early 1950s 	NOUN
-
+remplissage NOUN
 and 	CONJ
 replaced 	VERB
 with 	ADP
@@ -332,7 +334,7 @@ to 	ADP
 1955 	NOUN
 , 	.
 9.8 billion 	NUM
-
+remplissage NUM
 Kent 	NOUN
 cigarettes 	NOUN
 with 	ADP
@@ -360,7 +362,7 @@ have 	VERB
 died 	VERB
 -- 	.
 more than 	DET
-
+remplissage DET
 three 	NUM
 times 	NOUN
 the 	DET
@@ -401,8 +403,8 @@ asbestosis 	NOUN
 was 	VERB
 far 	ADV
 higher than expected 	ADJ
-
-
+remplissage ADJ
+remplissage ADJ
 , 	.
 the 	DET
 researchers 	NOUN
@@ -443,7 +445,7 @@ workers 	NOUN
 at 	ADP
 the 	DET
 West Groton 	NOUN
-
+remplissage NOUN
 , 	.
 Mass 	NOUN
 . 	.
@@ -476,9 +478,9 @@ is 	VERB
 owned 	VERB
 by 	ADP
 Hollingsworth & Vose Co. 	NOUN
-
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 , 	.
 was 	VERB
 under 	ADP
@@ -559,7 +561,7 @@ needle 	NOUN
 like 	ADP
 fibers 	NOUN
 such as 	ADP
-
+remplissage ADP
 crocidolite 	NOUN
 that 	CONJ
 are 	VERB
@@ -568,10 +570,10 @@ as 	ADP
 amphobiles 	NOUN
 , 	.
 according to 	ADP
-
+remplissage ADP
 Brooke 	NOUN
 T. Mossman 	NOUN
-
+remplissage NOUN
 , 	.
 a 	DET
 professor 	NOUN
@@ -580,11 +582,11 @@ pathlogy 	NOUN
 at 	ADP
 the 	DET
 University of Vermont 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 College of Medicine 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 . 	.
 More 	ADV
 common 	ADJ
@@ -687,7 +689,7 @@ huge 	ADJ
 bin 	NOUN
 , 	.
 poured in 	VERB
-
+remplissage VERB
 cotton 	NOUN
 and 	CONJ
 acetate 	NOUN
@@ -723,7 +725,7 @@ the 	DET
 factory 	NOUN
 , 	.
 even though 	ADP
-
+remplissage ADP
 exhaust 	NOUN
 fans 	NOUN
 ventilated 	VERB
@@ -750,7 +752,7 @@ diseases 	NOUN
 " 	.
 said 	VERB
 Darrell Phillips 	NOUN
-
+remplissage NOUN
 , 	.
 vice 	NOUN
 president 	NOUN
@@ -759,8 +761,8 @@ human 	ADJ
 resources 	NOUN
 for 	ADP
 Hollingsworth & Vose 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 . 	.
 `` 	.
 But 	CONJ
@@ -774,7 +776,7 @@ events 	NOUN
 took 	VERB
 place 	NOUN
 35 years 	NOUN
-
+remplissage NOUN
 ago 	ADV
 . 	.
 It 	PRON
@@ -822,9 +824,10 @@ funds 	NOUN
 tracked 	VERB
 by 	ADP
 IBC's Money Fund Report 	NOUN
-
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 eased 	VERB
 a 	DET
 fraction 	NOUN
@@ -834,10 +837,10 @@ percentage 	NOUN
 point 	NOUN
 to 	ADP
 8.45 % 	NOUN
-
+remplissage NOUN
 from 	ADP
 8.47 % 	NOUN
-
+remplissage NOUN
 for 	ADP
 the 	DET
 week 	NOUN
@@ -865,6 +868,7 @@ maturity 	NOUN
 of 	ADP
 the 	DET
 funds' 	NOUN
+remplissage NOUN
 investments 	NOUN
 lengthened 	VERB
 by 	ADP
@@ -872,17 +876,18 @@ a 	DET
 day 	NOUN
 to 	ADP
 41 days 	NOUN
-
+remplissage NOUN
 , 	.
 the 	DET
 longest 	ADJ
 since 	ADP
 early August 	NOUN
-
+remplissage NOUN
 , 	.
 according to 	ADP
-
+remplissage ADP
 Donoghue's 	NOUN
+remplissage NOUN
 . 	.
 Longer 	ADJ
 maturities 	NOUN
@@ -961,34 +966,34 @@ the 	DET
 year 	NOUN
 -- 	.
 33 days 	NOUN
-
+remplissage NOUN
 . 	.
 Nevertheless 	ADV
 , 	.
 said 	VERB
 Brenda Malizia Negus 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 , 	.
 editor 	NOUN
 of 	ADP
 Money Fund Report 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 , 	.
 yields 	NOUN
 `` 	.
 may 	VERB
 blip up 	VERB
-
+remplissage VERB
 again 	ADV
 before 	ADP
 they 	PRON
 blip down 	VERB
-
+remplissage VERB
 " 	.
 because of 	ADP
-
+remplissage ADP
 recent 	ADJ
 rises 	NOUN
 in 	ADP
@@ -1005,18 +1010,19 @@ bills 	NOUN
 sold 	VERB
 at 	ADP
 Monday's 	NOUN
+remplissage NOUN
 auction 	NOUN
 , 	.
 for example 	ADV
-
+remplissage ADV
 , 	.
 rose 	VERB
 to 	ADP
 8.04 % 	NOUN
-
+remplissage NOUN
 from 	ADP
 7.90 % 	NOUN
-
+remplissage NOUN
 . 	.
 Despite 	ADP
 recent 	ADJ
@@ -1042,8 +1048,8 @@ funds 	NOUN
 grew 	VERB
 by 	ADP
 $ 1.5 billion 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 during 	ADP
 the 	DET
 latest 	ADJ
@@ -1051,8 +1057,8 @@ week 	NOUN
 , 	.
 to 	ADP
 $ 352.7 billion 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 . 	.
 Typically 	ADV
 , 	.
@@ -1086,7 +1092,7 @@ yielding 	VERB
 well 	ADV
 over 	ADP
 9 % 	NOUN
-
+remplissage NOUN
 . 	.
 Dreyfus 	NOUN
 World-Wide 	NOUN
@@ -1104,7 +1110,7 @@ compound 	NOUN
 yield 	NOUN
 of 	ADP
 9.37 % 	NOUN
-
+remplissage NOUN
 during 	ADP
 the 	DET
 latest 	ADJ
@@ -1113,7 +1119,7 @@ week 	NOUN
 down 	ADV
 from 	ADP
 9.45 % 	NOUN
-
+remplissage NOUN
 a 	DET
 week 	NOUN
 earlier 	ADJ
@@ -1149,12 +1155,12 @@ the 	DET
 funds 	NOUN
 was 	VERB
 8.12 % 	NOUN
-
+remplissage NOUN
 , 	.
 down 	ADV
 from 	ADP
 8.14 % 	NOUN
-
+remplissage NOUN
 . 	.
 The 	DET
 30-day 	ADJ
@@ -1165,10 +1171,10 @@ to 	ADP
 an 	DET
 average 	ADJ
 8.19 % 	NOUN
-
+remplissage NOUN
 from 	ADP
 8.22 % 	NOUN
-
+remplissage NOUN
 ; 	.
 the 	DET
 30-day 	ADJ
@@ -1179,10 +1185,10 @@ to 	ADP
 an 	DET
 average 	ADJ
 8.53 % 	NOUN
-
+remplissage NOUN
 from 	ADP
 8.56 % 	NOUN
-
+remplissage NOUN
 . 	.
 J.P. 	NOUN
 Bolduc 	NOUN
@@ -1200,7 +1206,7 @@ which 	PRON
 holds 	VERB
 a 	DET
 83.4 % 	NOUN
-
+remplissage NOUN
 interest 	NOUN
 in 	ADP
 this 	DET
@@ -1216,8 +1222,8 @@ director 	NOUN
 He 	PRON
 succeeds 	VERB
 Terrence D. Daniels 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 , 	.
 formerly 	ADV
 a 	DET
@@ -1235,15 +1241,16 @@ holds 	VERB
 three 	NUM
 of 	ADP
 Grace Energy's 	NOUN
-
+remplissage NOUN
+remplissage NOUN
 seven 	NUM
 board 	NOUN
 seats 	NOUN
 . 	.
 Pacific First Financial Corp. 	NOUN
-
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 said 	VERB
 shareholders 	NOUN
 approved 	VERB
@@ -1251,21 +1258,21 @@ its 	PRON
 acquisition 	NOUN
 by 	ADP
 Royal Trustco Ltd 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 . 	.
 of 	ADP
 Toronto 	NOUN
 for 	ADP
 $ 27 	NOUN
-
+remplissage NOUN
 a 	DET
 share 	NOUN
 , 	.
 or 	CONJ
 $ 212 million 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 . 	.
 The 	DET
 thrift 	NOUN
@@ -1287,13 +1294,13 @@ year 	NOUN
 end 	NOUN
 . 	.
 McDermott International Inc. 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 said 	VERB
 its 	PRON
 Babcock & Wilcox 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 unit 	NOUN
 completed 	VERB
 the 	DET
@@ -1310,8 +1317,8 @@ S.p 	NOUN
 A. 	NOUN
 for 	ADP
 $ 295 million 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 . 	.
 Finmeccanica 	NOUN
 is 	VERB
@@ -1330,7 +1337,7 @@ engineering 	NOUN
 industry 	NOUN
 . 	.
 Bailey Controls 	NOUN
-
+remplissage NOUN
 , 	.
 based 	VERB
 in 	ADP
@@ -1355,8 +1362,8 @@ revenue 	NOUN
 of 	ADP
 about 	ADV
 $ 370 million 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 . 	.
 The 	DET
 federal 	ADJ
@@ -1403,6 +1410,7 @@ said 	VERB
 . 	.
 The 	DET
 government's 	NOUN
+remplissage NOUN
 borrowing 	NOUN
 authority 	NOUN
 dropped 	VERB
@@ -1411,11 +1419,11 @@ midnight 	NOUN
 Tuesday 	NOUN
 to 	ADP
 $ 2.80 	NOUN
-
+remplissage NOUN
 trillion 	NOUN
 from 	ADP
 $ 2.87 	NOUN
-
+remplissage NOUN
 trillion 	NOUN
 . 	.
 Legislation 	NOUN
@@ -1436,7 +1444,7 @@ gains 	NOUN
 taxes 	NOUN
 . 	.
 The House 	NOUN
-
+remplissage NOUN
 has 	VERB
 voted 	VERB
 to 	PRT
@@ -1445,7 +1453,7 @@ the 	DET
 ceiling 	NOUN
 to 	ADP
 $ 3.1 	NOUN
-
+remplissage NOUN
 trillion 	NOUN
 , 	.
 but 	CONJ
@@ -1472,18 +1480,18 @@ will 	VERB
 default 	VERB
 on 	ADP
 Nov. 9 	NOUN
-
+remplissage NOUN
 if 	ADP
 Congress 	NOUN
 does 	VERB
 n't 	PRT
 act 	VERB
 by then 	ADV
-
+remplissage ADV
 . 	.
 Clark J. Vitulli 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 was 	VERB
 named 	VERB
 senior 	ADJ
@@ -1504,8 +1512,8 @@ Japanese 	ADJ
 auto 	NOUN
 maker 	NOUN
 Mazda Motor Corp 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 . 	.
 In 	ADP
 the 	DET
@@ -1515,6 +1523,7 @@ he 	PRON
 will 	VERB
 oversee 	VERB
 Mazda's 	NOUN
+remplissage NOUN
 U.S. 	NOUN
 sales 	NOUN
 , 	.
@@ -1531,8 +1540,8 @@ Mr. 	NOUN
 Vitulli 	NOUN
 , 	.
 43 years old 	ADJ
-
-
+remplissage ADJ
+remplissage ADJ
 , 	.
 was 	VERB
 general 	ADJ
@@ -1540,7 +1549,8 @@ marketing 	NOUN
 manager 	NOUN
 of 	ADP
 Chrysler Corp.'s 	NOUN
-
+remplissage NOUN
+remplissage NOUN
 Chrysler 	NOUN
 division 	NOUN
 . 	.
@@ -1556,7 +1566,7 @@ with 	ADP
 Chrysler 	NOUN
 for 	ADP
 20 years 	NOUN
-
+remplissage NOUN
 . 	.
 When 	ADV
 it 	PRON
@@ -1569,11 +1579,12 @@ powwow 	NOUN
 , 	.
 the 	DET
 nation's 	NOUN
+remplissage NOUN
 manufacturing 	VERB
 titans 	NOUN
 typically 	ADV
 jet off 	VERB
-
+remplissage VERB
 to 	ADP
 the 	DET
 sunny 	ADJ
@@ -1586,7 +1597,7 @@ Boca 	NOUN
 Raton 	NOUN
 and 	CONJ
 Hot Springs 	NOUN
-
+remplissage NOUN
 . 	.
 Not 	ADV
 this 	DET
@@ -1594,9 +1605,9 @@ year 	NOUN
 . 	.
 The 	DET
 National Association of Manufacturers 	NOUN
-
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 settled 	VERB
 on 	ADP
 the 	DET
@@ -1632,7 +1643,7 @@ The 	DET
 idea 	NOUN
 , 	.
 of course 	ADV
-
+remplissage ADV
 : 	.
 to 	PRT
 prove 	VERB
@@ -1647,7 +1658,7 @@ buckle 	NOUN
 on 	ADP
 the 	DET
 Rust Belt 	NOUN
-
+remplissage NOUN
 is 	VERB
 n't 	PRT
 so 	ADV
@@ -1685,7 +1696,7 @@ and 	CONJ
 Maytag 	NOUN
 , 	.
 along with 	ADP
-
+remplissage ADP
 lesser 	ADJ
 knowns 	NOUN
 like 	ADP
@@ -1696,7 +1707,7 @@ the 	DET
 Valley 	NOUN
 Queen 	NOUN
 Cheese Factory 	NOUN
-
+remplissage NOUN
 . 	.
 For 	ADP
 starters 	NOUN
@@ -1706,9 +1717,9 @@ executives 	NOUN
 joined 	VERB
 Mayor 	NOUN
 William H. Hudnut III 	NOUN
-
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 for 	ADP
 an 	DET
 evening 	NOUN
@@ -1723,7 +1734,7 @@ guest 	NOUN
 pianist 	NOUN
 comedian 	NOUN
 Victor Borge 	NOUN
-
+remplissage NOUN
 . 	.
 Champagne 	NOUN
 and 	CONJ
@@ -1799,12 +1810,13 @@ Then 	ADV
 in 	ADP
 the 	DET
 guests' 	NOUN
+remplissage NOUN
 honor 	NOUN
 , 	.
 the 	DET
 speedway 	NOUN
 hauled out 	VERB
-
+remplissage VERB
 four 	NUM
 drivers 	NOUN
 , 	.
@@ -1846,7 +1858,7 @@ dummies 	NOUN
 the 	DET
 drivers 	NOUN
 pointed out 	VERB
-
+remplissage VERB
 they 	PRON
 still 	ADV
 had 	VERB
@@ -1857,6 +1869,7 @@ machines 	NOUN
 for 	ADP
 another 	DET
 sponsor's 	NOUN
+remplissage NOUN
 name 	NOUN
 or 	CONJ
 two 	NUM
@@ -1867,7 +1880,7 @@ downtown 	NOUN
 the 	DET
 execs 	NOUN
 squeezed in 	VERB
-
+remplissage VERB
 a 	DET
 few 	ADJ
 meetings 	NOUN
@@ -1977,7 +1990,7 @@ future 	ADJ
 meetings 	NOUN
 . 	.
 But for 	ADP
-
+remplissage ADP
 now 	ADV
 , 	.
 they 	PRON
@@ -1994,26 +2007,27 @@ in 	ADP
 February 	NOUN
 . 	.
 South Korea 	NOUN
-
+remplissage NOUN
 registered 	VERB
 a 	DET
 trade 	NOUN
 deficit 	NOUN
 of 	ADP
 $ 101 million 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 in 	ADP
 October 	NOUN
 , 	.
 reflecting 	VERB
 the 	DET
 country's 	NOUN
+remplissage NOUN
 economic 	ADJ
 sluggishness 	NOUN
 , 	.
 according to 	ADP
-
+remplissage ADP
 government 	NOUN
 figures 	NOUN
 released 	VERB
@@ -2024,9 +2038,9 @@ tallies 	NOUN
 by 	ADP
 the 	DET
 Trade and Industry Ministry 	NOUN
-
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 showed 	VERB
 another 	DET
 trade 	NOUN
@@ -2046,7 +2060,8 @@ a 	DET
 cloud 	NOUN
 on 	ADP
 South Korea's 	NOUN
-
+remplissage NOUN
+remplissage NOUN
 export 	NOUN
 oriented 	VERB
 economy 	NOUN
@@ -2057,13 +2072,13 @@ October 	NOUN
 stood 	VERB
 at 	ADP
 $ 5.29 billion 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 , 	.
 a 	DET
 mere 	ADJ
 0.7 % 	NOUN
-
+remplissage NOUN
 increase 	NOUN
 from 	ADP
 a 	DET
@@ -2076,18 +2091,19 @@ increased 	VERB
 sharply 	ADV
 to 	ADP
 $ 5.39 billion 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 , 	.
 up 	ADV
 20 % 	NOUN
-
+remplissage NOUN
 from 	ADP
 last 	ADJ
 October 	NOUN
 . 	.
 South Korea's 	NOUN
-
+remplissage NOUN
+remplissage NOUN
 economic 	ADJ
 boom 	NOUN
 , 	.
@@ -2100,7 +2116,7 @@ stopped 	VERB
 this 	DET
 year 	NOUN
 because of 	ADP
-
+remplissage ADP
 prolonged 	VERB
 labor 	NOUN
 disputes 	NOUN
@@ -2129,8 +2145,8 @@ government 	NOUN
 target 	NOUN
 of 	ADP
 $ 68 billion 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 . 	.
 Despite 	ADP
 the 	DET
@@ -2138,7 +2154,7 @@ gloomy 	ADJ
 forecast 	NOUN
 , 	.
 South Korea 	NOUN
-
+remplissage NOUN
 has 	VERB
 recorded 	VERB
 a 	DET
@@ -2146,8 +2162,8 @@ trade 	NOUN
 surplus 	NOUN
 of 	ADP
 $ 71 million 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 so 	ADP
 far 	ADP
 this 	DET
@@ -2160,11 +2176,12 @@ October 	NOUN
 , 	.
 the 	DET
 nation's 	NOUN
+remplissage NOUN
 accumulated 	VERB
 exports 	NOUN
 increased 	VERB
 4 % 	NOUN
-
+remplissage NOUN
 from 	ADP
 the 	DET
 same 	ADJ
@@ -2173,19 +2190,19 @@ last 	ADJ
 year 	NOUN
 to 	ADP
 $ 50.45 billion 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 . 	.
 Imports 	NOUN
 were 	VERB
 at 	ADP
 $ 50.38 billion 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 , 	.
 up 	ADV
 19 % 	NOUN
-
+remplissage NOUN
 . 	.
 Newsweek 	NOUN
 , 	.
@@ -2228,8 +2245,8 @@ unit 	NOUN
 of 	ADP
 the 	DET
 Washington Post Co. 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 , 	.
 is 	VERB
 the 	DET
@@ -2243,7 +2260,7 @@ offered 	VERB
 advertisers 	NOUN
 in 	ADP
 three years 	NOUN
-
+remplissage NOUN
 . 	.
 Plans 	NOUN
 that 	CONJ
@@ -2273,23 +2290,25 @@ between 	ADP
 Newsweek 	NOUN
 , 	.
 Time Warner Inc.'s 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 Time Magazine 	NOUN
-
+remplissage NOUN
 , 	.
 and 	CONJ
 Mortimer B. Zuckerman's 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 U.S. News & World Report 	NOUN
-
-
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 . 	.
 Alan Spoon 	NOUN
-
+remplissage NOUN
 , 	.
 recently 	ADV
 named 	VERB
@@ -2298,12 +2317,13 @@ president 	NOUN
 , 	.
 said 	VERB
 Newsweek's 	NOUN
+remplissage NOUN
 ad 	NOUN
 rates 	NOUN
 would 	VERB
 increase 	VERB
 5 % 	NOUN
-
+remplissage NOUN
 in 	ADP
 January 	NOUN
 . 	.
@@ -2318,7 +2338,7 @@ Newsweek 	NOUN
 will 	VERB
 cost 	VERB
 $ 100,980 	NOUN
-
+remplissage NOUN
 . 	.
 In 	ADP
 mid-October 	NOUN
@@ -2347,13 +2367,14 @@ circulation 	NOUN
 base 	NOUN
 , 	.
 Time's 	NOUN
+remplissage NOUN
 ad 	NOUN
 rate 	NOUN
 will 	VERB
 be 	VERB
 effectively 	ADV
 7.5 % 	NOUN
-
+remplissage NOUN
 higher 	ADJ
 per 	ADP
 subscriber 	NOUN
@@ -2366,7 +2387,7 @@ Time 	NOUN
 costs 	VERB
 about 	ADV
 $ 120,000 	NOUN
-
+remplissage NOUN
 . 	.
 U.S. 	NOUN
 News 	NOUN
@@ -2422,17 +2443,17 @@ their 	PRON
 spending 	NOUN
 , 	.
 as long as 	ADP
-
-
+remplissage ADP
+remplissage ADP
 they 	PRON
 spent 	VERB
 $ 325,000 	NOUN
-
+remplissage NOUN
 in 	ADP
 1989 	NOUN
 and 	CONJ
 $ 340,000 	NOUN
-
+remplissage NOUN
 in 	ADP
 1990 	NOUN
 . 	.
@@ -2447,7 +2468,7 @@ an 	DET
 attempt 	NOUN
 to 	PRT
 shore up 	VERB
-
+remplissage VERB
 a 	DET
 decline 	NOUN
 in 	ADP
@@ -2457,11 +2478,12 @@ in 	ADP
 the 	DET
 first 	ADJ
 nine months 	NOUN
-
+remplissage NOUN
 of 	ADP
 1989 	NOUN
 ; 	.
 Newsweek's 	NOUN
+remplissage NOUN
 ad 	NOUN
 pages 	NOUN
 totaled 	VERB
@@ -2471,13 +2493,13 @@ a 	DET
 drop 	NOUN
 of 	ADP
 3.2 % 	NOUN
-
+remplissage NOUN
 from 	ADP
 last 	ADJ
 year 	NOUN
 , 	.
 according to 	ADP
-
+remplissage ADP
 Publishers 	NOUN
 Information 	NOUN
 Bureau 	NOUN
@@ -2531,7 +2553,7 @@ to 	ADP
 subscribers 	NOUN
 , 	.
 such as 	ADP
-
+remplissage ADP
 telephones 	NOUN
 or 	CONJ
 watches 	NOUN
@@ -2550,11 +2572,11 @@ gains 	NOUN
 recently 	ADV
 . 	.
 According to 	ADP
-
+remplissage ADP
 Audit Bureau of Circulations 	NOUN
-
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 , 	.
 Time 	NOUN
 , 	.
@@ -2572,15 +2594,16 @@ a 	DET
 decrease 	NOUN
 of 	ADP
 7.3 % 	NOUN
-
+remplissage NOUN
 . 	.
 Newsweek's 	NOUN
+remplissage NOUN
 circulation 	NOUN
 for 	ADP
 the 	DET
 first 	ADJ
 six months 	NOUN
-
+remplissage NOUN
 of 	ADP
 1989 	NOUN
 was 	VERB
@@ -2596,6 +2619,7 @@ year 	NOUN
 . 	.
 U.S. 	NOUN
 News' 	NOUN
+remplissage NOUN
 circulation 	NOUN
 in 	ADP
 the 	DET
@@ -2606,24 +2630,24 @@ was 	VERB
 , 	.
 down 	ADV
 2.6 % 	NOUN
-
+remplissage NOUN
 . 	.
 New England Electric System 	NOUN
-
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 bowed 	VERB
 out of 	ADP
-
+remplissage ADP
 the 	DET
 bidding 	NOUN
 for 	ADP
 Public Service Co. 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 of 	ADP
 New Hampshire 	NOUN
-
+remplissage NOUN
 , 	.
 saying 	VERB
 that 	CONJ
@@ -2651,8 +2675,8 @@ The 	DET
 move 	NOUN
 leaves 	VERB
 United Illuminating Co. 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 and 	CONJ
 Northeast 	NOUN
 Utilities 	NOUN
@@ -2663,9 +2687,9 @@ outside 	ADJ
 bidders 	NOUN
 for 	ADP
 PS of New Hampshire 	NOUN
-
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 , 	.
 which 	PRON
 also 	ADV
@@ -2681,7 +2705,7 @@ Chapter 	NOUN
 bankruptcy 	NOUN
 proceedings 	NOUN
 under which 	ADP
-
+remplissage ADP
 it 	PRON
 would 	VERB
 remain 	VERB
@@ -2690,8 +2714,8 @@ independent 	ADJ
 company 	NOUN
 . 	.
 New England Electric 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 , 	.
 based 	VERB
 in 	ADP
@@ -2703,21 +2727,21 @@ Mass 	NOUN
 had 	VERB
 offered 	VERB
 $ 2 billion 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 to 	PRT
 acquire 	VERB
 PS of New Hampshire 	NOUN
-
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 , 	.
 well 	ADV
 below 	ADP
 the 	DET
 $ 2.29 billion 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 value 	NOUN
 United 	NOUN
 Illuminating 	NOUN
@@ -2728,8 +2752,8 @@ bid 	NOUN
 and 	CONJ
 the 	DET
 $ 2.25 billion 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 Northeast 	NOUN
 says 	VERB
 its 	PRON
@@ -2743,7 +2767,7 @@ is 	VERB
 based 	VERB
 in 	ADP
 New Haven 	NOUN
-
+remplissage NOUN
 , 	.
 Conn 	NOUN
 . 	.
@@ -2758,9 +2782,9 @@ Hartford 	NOUN
 Conn 	NOUN
 . 	.
 PS of New Hampshire 	NOUN
-
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 , 	.
 Manchester 	NOUN
 , 	.
@@ -2774,11 +2798,11 @@ plan 	NOUN
 at 	ADP
 about 	ADV
 $ 2.2 billion 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 . 	.
 John Rowe 	NOUN
-
+remplissage NOUN
 , 	.
 president 	NOUN
 and 	CONJ
@@ -2787,12 +2811,13 @@ executive 	ADJ
 officer 	NOUN
 of 	ADP
 New England Electric 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 , 	.
 said 	VERB
 the 	DET
 company's 	NOUN
+remplissage NOUN
 return 	NOUN
 on 	ADP
 equity 	NOUN
@@ -2810,12 +2835,12 @@ forecasts 	NOUN
 related 	VERB
 to 	ADP
 PS of New Hampshire 	NOUN
-
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 -- 	.
 such as 	ADP
-
+remplissage ADP
 growth 	NOUN
 in 	ADP
 electricity 	NOUN
@@ -2848,7 +2873,7 @@ over 	ADP
 the 	DET
 next 	ADJ
 five years 	NOUN
-
+remplissage NOUN
 , 	.
 and 	CONJ
 the 	DET
@@ -2879,17 +2904,17 @@ concerns 	NOUN
 also 	ADV
 worried 	VERB
 New England Electric 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 . 	.
 No 	DET
 matter 	NOUN
 who 	PRON
 owns 	VERB
 PS of New Hampshire 	NOUN
-
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 , 	.
 after 	ADP
 it 	PRON
@@ -2933,6 +2958,7 @@ led 	VERB
 to 	ADP
 the 	DET
 company's 	NOUN
+remplissage NOUN
 decision 	NOUN
 to 	PRT
 withdraw 	VERB
@@ -2944,11 +2970,11 @@ he 	PRON
 added 	VERB
 . 	.
 Wilbur Ross Jr. 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 of 	ADP
 Rothschild Inc. 	NOUN
-
+remplissage NOUN
 , 	.
 the 	DET
 financial 	ADJ
@@ -2957,6 +2983,7 @@ to 	ADP
 the 	DET
 troubled 	ADJ
 company's 	NOUN
+remplissage NOUN
 equity 	NOUN
 holders 	NOUN
 , 	.
@@ -2965,11 +2992,11 @@ the 	DET
 withdrawal 	NOUN
 of 	ADP
 New England Electric 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 might 	VERB
 speed up 	VERB
-
+remplissage VERB
 the 	DET
 reorganization 	NOUN
 process 	NOUN
@@ -2978,21 +3005,21 @@ The 	DET
 fact 	NOUN
 that 	CONJ
 New England 	NOUN
-
+remplissage NOUN
 proposed 	VERB
 lower 	ADJ
 rate 	NOUN
 increases 	NOUN
 -- 	.
 4.8 % 	NOUN
-
+remplissage NOUN
 over 	ADP
 seven years 	NOUN
-
+remplissage NOUN
 against 	ADP
 around 	ADP
 5.5 % 	NOUN
-
+remplissage NOUN
 boosts 	NOUN
 proposed 	VERB
 by 	ADP
@@ -3028,11 +3055,11 @@ Separately 	ADV
 , 	.
 the 	DET
 Federal Energy Regulatory Commission 	NOUN
-
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 turned down 	VERB
-
+remplissage VERB
 for 	ADP
 now 	ADV
 a 	DET
@@ -3047,9 +3074,9 @@ possible 	ADJ
 purchase 	NOUN
 of 	ADP
 PS of New Hampshire 	NOUN
-
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 . 	.
 Northeast 	NOUN
 said 	VERB
@@ -3069,7 +3096,7 @@ by 	ADP
 the 	DET
 FERC 	NOUN
 so that 	ADP
-
+remplissage ADP
 it 	PRON
 could 	VERB
 complete 	VERB
@@ -3091,34 +3118,34 @@ bankruptcy 	NOUN
 court 	NOUN
 . 	.
 PS of New Hampshire 	NOUN
-
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 shares 	NOUN
 closed 	VERB
 yesterday 	NOUN
 at 	ADP
 $ 3.75 	NOUN
-
+remplissage NOUN
 , 	.
 off 	ADP
 25 cents 	NOUN
-
+remplissage NOUN
 , 	.
 in 	ADP
 New York Stock Exchange 	NOUN
-
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 composite 	ADJ
 trading 	NOUN
 . 	.
 Norman Ricken 	NOUN
-
+remplissage NOUN
 , 	.
 52 years old 	ADJ
-
-
+remplissage ADJ
+remplissage ADJ
 and 	CONJ
 former 	ADJ
 president 	NOUN
@@ -3128,9 +3155,11 @@ operating 	VERB
 officer 	NOUN
 of 	ADP
 Toys ``R" Us Inc. 	NOUN
-
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 , 	.
 and 	CONJ
 Frederick 	NOUN
@@ -3142,8 +3171,8 @@ Jr. 	NOUN
 chairman 	NOUN
 of 	ADP
 Signet Banking Corp. 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 , 	.
 were 	VERB
 elected 	VERB
@@ -3160,20 +3189,20 @@ chain 	NOUN
 They 	PRON
 succeed 	VERB
 Daniel M. Rexinger 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 , 	.
 retired 	VERB
 Circuit City 	NOUN
-
+remplissage NOUN
 executive 	ADJ
 vice 	NOUN
 president 	NOUN
 , 	.
 and 	CONJ
 Robert R. Glauber 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 , 	.
 U.S. 	NOUN
 Treasury 	NOUN
@@ -3187,16 +3216,16 @@ member 	NOUN
 board 	NOUN
 . 	.
 Commonwealth Edison Co. 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 was 	VERB
 ordered 	VERB
 to 	PRT
 refund 	VERB
 about 	ADV
 $ 250 million 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 to 	ADP
 its 	PRON
 current 	ADJ
@@ -3221,8 +3250,8 @@ refund 	NOUN
 was 	VERB
 about 	ADV
 $ 55 million 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 more 	ADJ
 than 	ADP
 previously 	ADV
@@ -3230,8 +3259,8 @@ ordered 	VERB
 by 	ADP
 the 	DET
 Illinois Commerce Commission 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 and 	CONJ
 trade 	NOUN
 groups 	NOUN
@@ -3254,7 +3283,7 @@ State 	NOUN
 court 	NOUN
 Judge 	NOUN
 Richard Curry 	NOUN
-
+remplissage NOUN
 ordered 	VERB
 Edison 	NOUN
 to 	PRT
@@ -3264,10 +3293,10 @@ refunds 	NOUN
 of 	ADP
 about 	ADV
 $ 45 	NOUN
-
+remplissage NOUN
 to 	ADP
 $ 50 	NOUN
-
+remplissage NOUN
 each 	DET
 to 	ADP
 Edison 	NOUN
@@ -3279,12 +3308,12 @@ electric 	ADJ
 service 	NOUN
 since 	ADP
 April 1986 	NOUN
-
+remplissage NOUN
 , 	.
 including 	VERB
 about 	ADV
 two million 	NUM
-
+remplissage NUM
 customers 	NOUN
 who 	PRON
 have 	VERB
@@ -3301,7 +3330,7 @@ refunds 	NOUN
 to 	PRT
 begin 	VERB
 Feb. 1 	NOUN
-
+remplissage NOUN
 and 	CONJ
 said 	VERB
 that 	CONJ
@@ -3320,7 +3349,7 @@ his 	PRON
 order 	NOUN
 by 	ADP
 Commonwealth Edison 	NOUN
-
+remplissage NOUN
 . 	.
 `` 	.
 The 	DET
@@ -3346,7 +3375,7 @@ Curry 	NOUN
 said 	VERB
 . 	.
 Commonwealth Edison 	NOUN
-
+remplissage NOUN
 said 	VERB
 it 	PRON
 is 	VERB
@@ -3362,6 +3391,7 @@ considering 	VERB
 appealing 	VERB
 Judge 	NOUN
 Curry's 	NOUN
+remplissage NOUN
 order 	NOUN
 . 	.
 The 	DET
@@ -3382,13 +3412,13 @@ collections 	NOUN
 made 	VERB
 until 	ADP
 Dec. 31 	NOUN
-
+remplissage NOUN
 of 	ADP
 this 	DET
 year 	NOUN
 . 	.
 Commonwealth Edison 	NOUN
-
+remplissage NOUN
 said 	VERB
 the 	DET
 ruling 	NOUN
@@ -3402,7 +3432,7 @@ its 	PRON
 earnings 	NOUN
 by 	ADP
 $ 1.55 	NOUN
-
+remplissage NOUN
 a 	DET
 share 	NOUN
 . 	.
@@ -3410,31 +3440,31 @@ For 	ADP
 1988 	NOUN
 , 	.
 Commonwealth Edison 	NOUN
-
+remplissage NOUN
 reported 	VERB
 earnings 	NOUN
 of 	ADP
 $ 737.5 million 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 , 	.
 or 	CONJ
 $ 3.01 	NOUN
-
+remplissage NOUN
 a 	DET
 share 	NOUN
 . 	.
 A 	DET
 Commonwealth Edison 	NOUN
-
+remplissage NOUN
 spokesman 	NOUN
 said 	VERB
 that 	CONJ
 tracking down 	VERB
-
+remplissage VERB
 the 	DET
 two million 	NOUN
-
+remplissage NOUN
 customers 	NOUN
 whose 	PRON
 addresses 	NOUN
@@ -3455,28 +3485,28 @@ nightmare 	NOUN
 " 	.
 In 	ADP
 New York Stock Exchange 	NOUN
-
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 composite 	ADJ
 trading 	NOUN
 yesterday 	NOUN
 , 	.
 Commonwealth Edison 	NOUN
-
+remplissage NOUN
 closed 	VERB
 at 	ADP
 $ 38.375 	NOUN
-
+remplissage NOUN
 , 	.
 down 	ADV
 12.5 cents 	NOUN
-
+remplissage NOUN
 . 	.
 The 	DET
 $ 2.5 billion 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 Byron 	NOUN
 1 	NUM
 plant 	NOUN
@@ -3498,10 +3528,10 @@ ruling 	NOUN
 , 	.
 the 	DET
 Commerce Commission 	NOUN
-
+remplissage NOUN
 said 	VERB
 Commonwealth Edison 	NOUN
-
+remplissage NOUN
 could 	VERB
 raise 	VERB
 its 	PRON
@@ -3509,8 +3539,8 @@ electricity 	NOUN
 rates 	NOUN
 by 	ADP
 $ 49 million 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 to 	PRT
 pay 	VERB
 for 	ADP
@@ -3529,6 +3559,7 @@ groups 	NOUN
 to 	ADP
 the 	DET
 commission's 	NOUN
+remplissage NOUN
 rate 	NOUN
 increase 	NOUN
 and 	CONJ
@@ -3539,15 +3570,16 @@ illegal 	ADJ
 . 	.
 The 	DET
 Illinois Supreme Court 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 ordered 	VERB
 the 	DET
 commission 	NOUN
 to 	PRT
 audit 	VERB
 Commonwealth Edison's 	NOUN
-
+remplissage NOUN
+remplissage NOUN
 construction 	NOUN
 expenses 	NOUN
 and 	CONJ
@@ -3564,15 +3596,16 @@ collecting 	VERB
 for 	ADP
 the 	DET
 plant's 	NOUN
+remplissage NOUN
 construction 	NOUN
 cost 	NOUN
 from 	ADP
 its 	PRON
 3.1 million 	NOUN
-
+remplissage NOUN
 customers 	NOUN
 subject to 	ADP
-
+remplissage ADP
 a 	DET
 refund 	NOUN
 since 	ADP
@@ -3587,15 +3620,16 @@ ruled 	VERB
 that 	CONJ
 between 	ADP
 $ 190 million 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 and 	CONJ
 $ 195 million 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 of 	ADP
 the 	DET
 plant's 	NOUN
+remplissage NOUN
 construction 	NOUN
 cost 	NOUN
 was 	VERB
@@ -3618,11 +3652,12 @@ added 	VERB
 an 	DET
 additional 	ADJ
 $ 55 million 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 to 	ADP
 the 	DET
 commission's 	NOUN
+remplissage NOUN
 calculations 	NOUN
 . 	.
 Last 	ADJ
@@ -3639,10 +3674,10 @@ the 	DET
 refund 	NOUN
 at 	ADP
 9 % 	NOUN
-
+remplissage NOUN
 . 	.
 Commonwealth Edison 	NOUN
-
+remplissage NOUN
 now 	ADV
 faces 	VERB
 an 	DET
@@ -3662,14 +3697,14 @@ collections 	NOUN
 that 	CONJ
 the 	DET
 Illinois Appellate Court 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 has 	VERB
 estimated 	VERB
 at 	ADP
 $ 140 million 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 . 	.
 And 	CONJ
 consumer 	NOUN
@@ -3678,6 +3713,7 @@ hope 	VERB
 that 	CONJ
 Judge 	NOUN
 Curry's 	NOUN
+remplissage NOUN
 Byron 	NOUN
 1 	NUM
 order 	NOUN
@@ -3693,19 +3729,20 @@ rate 	NOUN
 case 	NOUN
 involving 	VERB
 Commonwealth Edison's 	NOUN
-
+remplissage NOUN
+remplissage NOUN
 Braidwood 	NOUN
 2 	NUM
 plant 	NOUN
 . 	.
 Commonwealth Edison 	NOUN
-
+remplissage NOUN
 is 	VERB
 seeking 	VERB
 about 	ADV
 $ 245 million 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 in 	ADP
 rate 	NOUN
 increases 	NOUN
@@ -3733,24 +3770,25 @@ end 	NOUN
 Last 	ADJ
 year 	NOUN
 Commonwealth Edison 	NOUN
-
+remplissage NOUN
 had 	VERB
 to 	PRT
 refund 	VERB
 $ 72.7 million 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 for 	ADP
 poor 	ADJ
 performance 	NOUN
 of 	ADP
 its 	PRON
 LaSalle I 	NOUN
-
+remplissage NOUN
 nuclear 	ADJ
 plant 	NOUN
 . 	.
 Japan's 	NOUN
+remplissage NOUN
 domestic 	ADJ
 sales 	NOUN
 of 	ADP
@@ -3763,7 +3801,7 @@ in 	ADP
 October 	NOUN
 rose 	VERB
 18 % 	NOUN
-
+remplissage NOUN
 from 	ADP
 a 	DET
 year 	NOUN
@@ -3780,9 +3818,9 @@ month 	NOUN
 , 	.
 the 	DET
 Japan Automobile Dealers' Association 	NOUN
-
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 said 	VERB
 . 	.
 The 	DET
@@ -3795,12 +3833,12 @@ year 	NOUN
 increases 	NOUN
 of 	ADP
 21 % 	NOUN
-
+remplissage NOUN
 in 	ADP
 August 	NOUN
 and 	CONJ
 12 % 	NOUN
-
+remplissage NOUN
 in 	ADP
 September 	NOUN
 . 	.
@@ -3828,7 +3866,7 @@ month 	NOUN
 inched 	VERB
 down 	ADV
 0.4 % 	NOUN
-
+remplissage NOUN
 . 	.
 Sales 	NOUN
 of 	ADP
@@ -3836,7 +3874,7 @@ passenger 	NOUN
 cars 	NOUN
 grew 	VERB
 22 % 	NOUN
-
+remplissage NOUN
 from 	ADP
 a 	DET
 year 	NOUN
@@ -3874,20 +3912,20 @@ from 	ADP
 13,056 	NUM
 in 	ADP
 October 1988 	NOUN
-
+remplissage NOUN
 . 	.
 Texas Instruments Japan Ltd 	NOUN
-
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 . 	.
 , 	.
 a 	DET
 unit 	NOUN
 of 	ADP
 Texas Instruments Inc. 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 , 	.
 said 	VERB
 it 	PRON
@@ -3896,7 +3934,7 @@ a 	DET
 plant 	NOUN
 in 	ADP
 South Korea 	NOUN
-
+remplissage NOUN
 to 	PRT
 manufacture 	VERB
 control 	NOUN
@@ -3927,7 +3965,7 @@ control 	NOUN
 products 	NOUN
 in 	ADP
 South Korea 	NOUN
-
+remplissage NOUN
 , 	.
 the 	DET
 company 	NOUN
@@ -3952,8 +3990,8 @@ survival 	NOUN
 of 	ADP
 spinoff 	NOUN
 Cray Computer Corp. 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 as 	ADP
 a 	DET
 fledgling 	NOUN
@@ -3980,7 +4018,7 @@ chief 	NOUN
 designer 	NOUN
 , 	.
 Seymour Cray 	NOUN
-
+remplissage NOUN
 . 	.
 Not 	ADV
 only 	ADV
@@ -3990,6 +4028,7 @@ of 	ADP
 the 	DET
 new 	ADJ
 company's 	NOUN
+remplissage NOUN
 initial 	ADJ
 machine 	NOUN
 tied 	VERB
@@ -4009,9 +4048,9 @@ filed 	VERB
 with 	ADP
 the 	DET
 Securities and Exchange Commission 	NOUN
-
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 on 	ADP
 the 	DET
 pending 	VERB
@@ -4019,15 +4058,15 @@ spinoff 	NOUN
 disclosed 	VERB
 that 	CONJ
 Cray Research Inc. 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 will 	VERB
 withdraw 	VERB
 the 	DET
 almost 	ADV
 $ 100 million 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 in 	ADP
 financing 	NOUN
 it 	PRON
@@ -4059,8 +4098,8 @@ that 	CONJ
 although 	ADP
 the 	DET
 64 year old 	ADJ
-
-
+remplissage ADJ
+remplissage ADJ
 Mr. 	NOUN
 Cray 	NOUN
 has 	VERB
@@ -4071,9 +4110,9 @@ the 	DET
 project 	NOUN
 for 	ADP
 more than 	DET
-
+remplissage DET
 six years 	NOUN
-
+remplissage NOUN
 , 	.
 the 	DET
 Cray 	NOUN
@@ -4082,11 +4121,11 @@ Cray 	NOUN
 machine 	NOUN
 is 	VERB
 at least 	ADV
-
+remplissage ADV
 another 	DET
 year 	NOUN
 away from 	ADP
-
+remplissage ADP
 a 	DET
 fully 	ADV
 operational 	ADJ
@@ -4130,7 +4169,7 @@ Minneapolis 	NOUN
 - 	.
 based 	VERB
 Cray Research 	NOUN
-
+remplissage NOUN
 first 	ADV
 announced 	VERB
 the 	DET
@@ -4165,13 +4204,14 @@ choice 	NOUN
 , 	.
 " 	.
 Cray Computer's 	NOUN
-
+remplissage NOUN
+remplissage NOUN
 chief 	NOUN
 financial 	ADJ
 officer 	NOUN
 , 	.
 Gregory Barnum 	NOUN
-
+remplissage NOUN
 , 	.
 said 	VERB
 in 	ADP
@@ -4204,7 +4244,7 @@ be 	VERB
 completed 	VERB
 . 	.
 Cray Research 	NOUN
-
+remplissage NOUN
 did 	VERB
 not 	PRT
 want 	VERB
@@ -4225,14 +4265,14 @@ also 	ADV
 said 	VERB
 that 	CONJ
 Cray Computer 	NOUN
-
+remplissage NOUN
 anticipates 	VERB
 needing 	VERB
 perhaps 	ADV
 another 	DET
 $ 120 million 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 in 	ADP
 financing 	NOUN
 beginning 	VERB
@@ -4261,23 +4301,23 @@ the 	DET
 spinoff 	NOUN
 caused 	VERB
 Cray Research 	NOUN
-
+remplissage NOUN
 stock 	NOUN
 to 	PRT
 jump 	VERB
 $ 2.875 	NOUN
-
+remplissage NOUN
 yesterday 	NOUN
 to 	PRT
 close 	VERB
 at 	ADP
 $ 38 	NOUN
-
+remplissage NOUN
 in 	ADP
 New York Stock Exchange 	NOUN
-
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 composite 	ADJ
 trading 	NOUN
 . 	.
@@ -4286,19 +4326,21 @@ noted 	VERB
 yesterday 	NOUN
 that 	CONJ
 Cray Research's 	NOUN
-
+remplissage NOUN
+remplissage NOUN
 decision 	NOUN
 to 	PRT
 link 	VERB
 its 	PRON
 $ 98.3 million 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 promissory 	ADJ
 note 	NOUN
 to 	ADP
 Mr. 	NOUN
 Cray's 	NOUN
+remplissage NOUN
 presence 	NOUN
 will 	VERB
 complicate 	VERB
@@ -4326,18 +4368,18 @@ investor 	NOUN
 " 	.
 said 	VERB
 Gary P. Smaby 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 of 	ADP
 Smaby Group Inc. 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 , 	.
 Minneapolis 	NOUN
 . 	.
 `` 	.
 Cray Computer 	NOUN
-
+remplissage NOUN
 will 	VERB
 be 	VERB
 a 	DET
@@ -4366,6 +4408,7 @@ n't 	PRT
 Besides 	ADP
 the 	DET
 designer's 	NOUN
+remplissage NOUN
 age 	NOUN
 , 	.
 other 	ADJ
@@ -4374,6 +4417,7 @@ factors 	NOUN
 for 	ADP
 Mr. 	NOUN
 Cray's 	NOUN
+remplissage NOUN
 new 	ADJ
 company 	NOUN
 include 	VERB
@@ -4381,6 +4425,7 @@ the 	DET
 Cray 	NOUN
 - 	.
 3's 	NUM
+remplissage NUM
 tricky 	ADJ
 , 	.
 unproven 	ADJ
@@ -4416,7 +4461,7 @@ handling 	NOUN
 equipment 	NOUN
 . 	.
 In addition 	ADV
-
+remplissage ADV
 , 	.
 the 	DET
 Cray 	NOUN
@@ -4429,15 +4474,15 @@ processors 	NOUN
 -- 	.
 twice 	ADV
 as many as 	ADV
-
-
+remplissage ADV
+remplissage ADV
 the 	DET
 largest 	ADJ
 current 	ADJ
 supercomputer 	NOUN
 . 	.
 Cray Computer 	NOUN
-
+remplissage NOUN
 also 	ADV
 will 	VERB
 face 	VERB
@@ -4448,13 +4493,13 @@ not 	PRT
 only 	ADV
 from 	ADP
 Cray Research 	NOUN
-
+remplissage NOUN
 , 	.
 which 	PRON
 has 	VERB
 about 	ADV
 60 % 	NOUN
-
+remplissage NOUN
 of 	ADP
 the 	DET
 world-wide 	ADJ
@@ -4466,7 +4511,7 @@ is 	VERB
 expected 	VERB
 to 	PRT
 roll out 	VERB
-
+remplissage VERB
 the 	DET
 C 	X
 - 	.
@@ -4492,22 +4537,23 @@ will 	VERB
 compete 	VERB
 with 	ADP
 International Business Machines Corp. 	NOUN
-
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 and 	CONJ
 Japan's 	NOUN
+remplissage NOUN
 Big 	ADJ
 Three 	NUM
 -- 	.
 Hitachi Ltd. 	NOUN
-
+remplissage NOUN
 , 	.
 NEC Corp. 	NOUN
-
+remplissage NOUN
 and 	CONJ
 Fujitsu Ltd. 	NOUN
-
+remplissage NOUN
 The 	DET
 new 	ADJ
 company 	NOUN
@@ -4526,12 +4572,12 @@ supercomputers 	NOUN
 priced 	VERB
 between 	ADP
 $ 15 million 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 and 	CONJ
 $ 30 million 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 -- 	.
 presumably 	ADV
 the 	DET
@@ -4548,20 +4594,20 @@ the 	DET
 spinoff 	NOUN
 , 	.
 Cray Research 	NOUN
-
+remplissage NOUN
 stockholders 	NOUN
 are 	VERB
 to 	PRT
 receive 	VERB
 one 	NUM
 Cray Computer 	NOUN
-
+remplissage NOUN
 share 	NOUN
 for 	ADP
 every 	DET
 two 	NUM
 Cray Research 	NOUN
-
+remplissage NOUN
 shares 	NOUN
 they 	PRON
 own 	VERB
@@ -4574,7 +4620,7 @@ occur 	VERB
 in 	ADP
 about 	ADV
 two weeks 	NOUN
-
+remplissage NOUN
 . 	.
 No 	DET
 price 	NOUN
@@ -4594,14 +4640,14 @@ will 	VERB
 leave 	VERB
 it 	PRON
 up to 	ADV
-
+remplissage ADV
 the 	DET
 marketplace 	NOUN
 to 	PRT
 decide 	VERB
 . 	.
 Cray Computer 	NOUN
-
+remplissage NOUN
 has 	VERB
 applied 	VERB
 to 	PRT
@@ -4612,30 +4658,31 @@ Nasdaq 	NOUN
 Analysts 	NOUN
 calculate 	VERB
 Cray Computer's 	NOUN
-
+remplissage NOUN
+remplissage NOUN
 initial 	ADJ
 book 	NOUN
 value 	NOUN
 at 	ADP
 about 	ADV
 $ 4.75 	NOUN
-
+remplissage NOUN
 a 	DET
 share 	NOUN
 . 	.
 Along with 	ADP
-
+remplissage ADP
 the 	DET
 note 	NOUN
 , 	.
 Cray Research 	NOUN
-
+remplissage NOUN
 is 	VERB
 transferring 	VERB
 about 	ADV
 $ 53 million 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 in 	ADP
 assets 	NOUN
 , 	.
@@ -4656,7 +4703,8 @@ a 	DET
 drain 	NOUN
 on 	ADP
 Cray Research's 	NOUN
-
+remplissage NOUN
+remplissage NOUN
 earnings 	NOUN
 . 	.
 Pro-forma 	ADJ
@@ -4666,7 +4714,7 @@ clearly 	ADV
 show 	VERB
 why 	ADV
 Cray Research 	NOUN
-
+remplissage NOUN
 favored 	VERB
 the 	DET
 spinoff 	NOUN
@@ -4693,8 +4741,8 @@ a 	DET
 profit 	NOUN
 of 	ADP
 $ 19.3 million 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 for 	ADP
 the 	DET
 first 	ADJ
@@ -4702,11 +4750,11 @@ half 	DET
 of 	ADP
 1989 	NOUN
 rather than 	ADP
-
+remplissage ADP
 the 	DET
 $ 5.9 million 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 it 	PRON
 posted 	VERB
 . 	.
@@ -4721,14 +4769,14 @@ existed 	VERB
 then 	ADV
 , 	.
 Cray Computer 	NOUN
-
+remplissage NOUN
 would 	VERB
 have 	VERB
 incurred 	VERB
 a 	DET
 $ 20.5 million 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 loss 	NOUN
 . 	.
 Mr. 	NOUN
@@ -4748,7 +4796,7 @@ for 	ADP
 the 	DET
 new 	ADJ
 Colorado Springs 	NOUN
-
+remplissage NOUN
 , 	.
 Colo 	NOUN
 . 	.
@@ -4765,7 +4813,7 @@ he 	PRON
 had 	VERB
 with 	ADP
 Cray Research 	NOUN
-
+remplissage NOUN
 . 	.
 Regarded 	VERB
 as 	ADP
@@ -4780,23 +4828,23 @@ Cray 	NOUN
 was 	VERB
 paid 	VERB
 $ 600,000 	NOUN
-
+remplissage NOUN
 at 	ADP
 Cray Research 	NOUN
-
+remplissage NOUN
 last 	ADJ
 year 	NOUN
 . 	.
 At 	ADP
 Cray Computer 	NOUN
-
+remplissage NOUN
 , 	.
 he 	PRON
 will 	VERB
 be 	VERB
 paid 	VERB
 $ 240,000 	NOUN
-
+remplissage NOUN
 . 	.
 Besides 	ADP
 Messrs 	NOUN
@@ -4813,7 +4861,7 @@ the 	DET
 company 	NOUN
 includes 	VERB
 Neil Davenport 	NOUN
-
+remplissage NOUN
 , 	.
 47 	NUM
 , 	.
@@ -4824,8 +4872,8 @@ executive 	NOUN
 officer 	NOUN
 ; 	.
 Joseph M. Blanchard 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 , 	.
 37 	NUM
 , 	.
@@ -4835,8 +4883,8 @@ president 	NOUN
 engineering 	NOUN
 ; 	.
 Malcolm A. Hammerton 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 , 	.
 40 	NUM
 , 	.
@@ -4847,8 +4895,8 @@ software 	NOUN
 ; 	.
 and 	CONJ
 Douglas R. Wheeland 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 , 	.
 45 	NUM
 , 	.
@@ -4861,10 +4909,10 @@ All 	PRON
 came 	VERB
 from 	ADP
 Cray Research 	NOUN
-
+remplissage NOUN
 . 	.
 Cray Computer 	NOUN
-
+remplissage NOUN
 , 	.
 which 	PRON
 currently 	ADV
@@ -4887,12 +4935,12 @@ of 	ADP
 1990 	NOUN
 . 	.
 John R. Stevens 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 , 	.
 49 years old 	ADJ
-
-
+remplissage ADJ
+remplissage ADJ
 , 	.
 was 	VERB
 named 	VERB
@@ -4916,7 +4964,7 @@ to 	PRT
 report 	VERB
 to 	ADP
 Donald Pardus 	NOUN
-
+remplissage NOUN
 , 	.
 president 	NOUN
 and 	CONJ
@@ -4938,7 +4986,7 @@ holding 	NOUN
 company 	NOUN
 . 	.
 Arthur A. 	NOUN
-
+remplissage NOUN
 Hatch 	NOUN
 , 	.
 59 	NUM
@@ -4959,14 +5007,15 @@ president 	NOUN
 of 	ADP
 the 	DET
 company's 	NOUN
+remplissage NOUN
 Eastern Edison Co. 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 unit 	NOUN
 . 	.
 John D. Carney 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 , 	.
 45 	NUM
 , 	.
@@ -4980,7 +5029,7 @@ as 	ADP
 president 	NOUN
 of 	ADP
 Eastern Edison 	NOUN
-
+remplissage NOUN
 . 	.
 Previously 	ADV
 he 	PRON
@@ -4989,11 +5038,11 @@ vice 	ADV
 president 	NOUN
 of 	ADP
 Eastern Edison 	NOUN
-
+remplissage NOUN
 . 	.
 Robert P. Tassinari 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 , 	.
 63 	NUM
 , 	.
@@ -5004,7 +5053,7 @@ vice 	NOUN
 president 	NOUN
 of 	ADP
 Eastern Utilities 	NOUN
-
+remplissage NOUN
 . 	.
 He 	PRON
 was 	VERB
@@ -5025,12 +5074,12 @@ diplomacy 	NOUN
 , 	.
 removed 	VERB
 South Korea 	NOUN
-
+remplissage NOUN
 , 	.
 Taiwan 	NOUN
 and 	CONJ
 Saudi Arabia 	NOUN
-
+remplissage NOUN
 from 	ADP
 a 	DET
 list 	NOUN
@@ -5089,9 +5138,9 @@ review 	NOUN
 , 	.
 U.S. 	NOUN
 Trade Representative 	NOUN
-
+remplissage NOUN
 Carla Hills 	NOUN
-
+remplissage NOUN
 announced 	VERB
 . 	.
 Under 	ADP
@@ -5189,6 +5238,7 @@ an 	DET
 offending 	VERB
 } 	.
 country's 	NOUN
+remplissage NOUN
 own 	ADJ
 citizens 	NOUN
 . 	.
@@ -5237,7 +5287,7 @@ Mrs. 	NOUN
 Hills 	NOUN
 lauded 	VERB
 South Korea 	NOUN
-
+remplissage NOUN
 for 	ADP
 creating 	VERB
 an 	DET
@@ -5318,6 +5368,7 @@ measure 	NOUN
 could 	VERB
 compel 	VERB
 Taipei's 	NOUN
+remplissage NOUN
 growing 	VERB
 number 	NOUN
 of 	ADP
@@ -5335,7 +5386,7 @@ their 	PRON
 films 	NOUN
 . 	.
 Saudi Arabia 	NOUN
-
+remplissage NOUN
 , 	.
 for 	ADP
 its 	PRON
@@ -5361,9 +5412,9 @@ to 	ADP
 computer 	NOUN
 software 	NOUN
 as well 	ADV
-
+remplissage ADV
 as to 	ADP
-
+remplissage ADP
 literary 	ADJ
 works 	NOUN
 , 	.
@@ -5443,7 +5494,7 @@ priority 	NOUN
 list 	NOUN
 . 	.
 Gary Hoffman 	NOUN
-
+remplissage NOUN
 , 	.
 a 	DET
 Washington 	NOUN
@@ -5474,6 +5525,7 @@ is 	VERB
 in 	ADP
 a 	DET
 country's 	NOUN
+remplissage NOUN
 own 	ADJ
 interest 	NOUN
 , 	.
@@ -5483,12 +5535,12 @@ improvements 	NOUN
 made 	VERB
 by 	ADP
 South Korea 	NOUN
-
+remplissage NOUN
 , 	.
 Taiwan 	NOUN
 and 	CONJ
 Saudi Arabia 	NOUN
-
+remplissage NOUN
 . 	.
 `` 	.
 What 	PRON
@@ -5525,7 +5577,7 @@ the 	DET
 priority 	NOUN
 list 	NOUN
 because of 	ADP
-
+remplissage ADP
 its 	PRON
 efforts 	NOUN
 to 	PRT
@@ -5603,7 +5655,7 @@ these 	DET
 countries 	NOUN
 by 	ADP
 April 30 	NOUN
-
+remplissage NOUN
 . 	.
 So 	ADP
 far 	ADV
@@ -5646,8 +5698,8 @@ foreign 	ADJ
 debt 	NOUN
 of 	ADP
 $ 64 billion 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 -- 	.
 the 	DET
 third 	ADJ
@@ -5663,14 +5715,14 @@ by 	ADP
 Economy 	NOUN
 Minister 	NOUN
 Nestor Rapanelli 	NOUN
-
+remplissage NOUN
 is 	VERB
 believed 	VERB
 to 	PRT
 be 	VERB
 the first time 	ADP
-
-
+remplissage ADP
+remplissage ADP
 such 	DET
 an 	DET
 action 	NOUN
@@ -5711,7 +5763,7 @@ a 	DET
 reduction 	NOUN
 of 	ADP
 50 % 	NOUN
-
+remplissage NOUN
 in 	ADP
 the 	DET
 value 	NOUN
@@ -5729,7 +5781,7 @@ his 	PRON
 spokesman 	NOUN
 , 	.
 Miguel Alurralde 	NOUN
-
+remplissage NOUN
 . 	.
 Mr. 	NOUN
 Rapanelli 	NOUN
@@ -5739,21 +5791,21 @@ August 	NOUN
 with 	ADP
 U.S. 	NOUN
 Assistant Treasury Secretary 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 David Mulford 	NOUN
-
+remplissage NOUN
 . 	.
 Argentine 	ADJ
 negotiator 	NOUN
 Carlos Carballo 	NOUN
-
+remplissage NOUN
 was 	VERB
 in 	ADP
 Washington 	NOUN
 and 	CONJ
 New York 	NOUN
-
+remplissage NOUN
 this 	DET
 week 	NOUN
 to 	PRT
@@ -5770,14 +5822,14 @@ the 	DET
 government 	NOUN
 of 	ADP
 President Carlos Menem 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 , 	.
 who 	PRON
 took 	VERB
 office 	NOUN
 Jul. 8 	NOUN
-
+remplissage NOUN
 , 	.
 feels 	VERB
 a 	DET
@@ -5820,9 +5872,9 @@ centennial 	NOUN
 year 	NOUN
 , 	.
 The Wall Street Journal 	NOUN
-
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 will 	VERB
 report 	VERB
 events 	NOUN
@@ -5858,7 +5910,7 @@ That 	DET
 year 	NOUN
 the 	DET
 Apple II 	NOUN
-
+remplissage NOUN
 , 	.
 Commodore 	NOUN
 Pet 	NOUN
@@ -5875,14 +5927,15 @@ were 	VERB
 crude 	ADJ
 by 	ADP
 today's 	NOUN
+remplissage NOUN
 standards 	NOUN
 . 	.
 Apple II 	NOUN
-
+remplissage NOUN
 owners 	NOUN
 , 	.
 for example 	ADV
-
+remplissage ADV
 , 	.
 had 	VERB
 to 	PRT
@@ -5900,14 +5953,14 @@ audiocassettes 	NOUN
 . 	.
 But 	CONJ
 Apple II 	NOUN
-
+remplissage NOUN
 was 	VERB
 a 	DET
 major 	ADJ
 advance 	NOUN
 from 	ADP
 Apple I 	NOUN
-
+remplissage NOUN
 , 	.
 which 	PRON
 was 	VERB
@@ -5917,30 +5970,30 @@ a 	DET
 garage 	NOUN
 by 	ADP
 Stephen Wozniak 	NOUN
-
+remplissage NOUN
 and 	CONJ
 Steven Jobs 	NOUN
-
+remplissage NOUN
 for 	ADP
 hobbyists 	NOUN
 such as 	ADP
-
+remplissage ADP
 the 	DET
 Homebrew 	NOUN
 Computer 	NOUN
 Club 	NOUN
 . 	.
 In addition 	ADV
-
+remplissage ADV
 , 	.
 the 	DET
 Apple II 	NOUN
-
+remplissage NOUN
 was 	VERB
 an 	DET
 affordable 	ADJ
 $ 1,298 	NOUN
-
+remplissage NOUN
 . 	.
 Crude 	ADJ
 as 	ADP
@@ -5987,7 +6040,7 @@ from 	ADP
 kit 	NOUN
 types 	NOUN
 such as 	ADP
-
+remplissage ADP
 the 	DET
 Altair 	NOUN
 , 	.
@@ -6013,7 +6066,7 @@ Current 	ADJ
 PCs 	NOUN
 are 	VERB
 more than 	DET
-
+remplissage DET
 50 	NUM
 times 	NOUN
 faster 	ADJ
@@ -6037,10 +6090,10 @@ PC 	NOUN
 contributors 	NOUN
 . 	.
 William Gates 	NOUN
-
+remplissage NOUN
 and 	CONJ
 Paul Allen 	NOUN
-
+remplissage NOUN
 in 	ADP
 1975 	NOUN
 developed 	VERB
@@ -6059,7 +6112,7 @@ an 	DET
 industry 	NOUN
 billionaire 	NOUN
 six years 	NOUN
-
+remplissage NOUN
 after 	ADP
 IBM 	NOUN
 adapted 	VERB
@@ -6071,8 +6124,8 @@ in 	ADP
 1981 	NOUN
 . 	.
 Alan F. Shugart 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 , 	.
 currently 	ADV
 chairman 	NOUN
@@ -6092,7 +6145,7 @@ for 	ADP
 PCs 	NOUN
 . 	.
 Dennis Hayes 	NOUN
-
+remplissage NOUN
 and 	CONJ
 Dale 	NOUN
 Heatherington 	NOUN
@@ -6134,7 +6187,7 @@ first 	ADJ
 PC 	NOUN
 until 	ADP
 August 1981 	NOUN
-
+remplissage NOUN
 as 	ADP
 many 	ADJ
 other 	ADJ
@@ -6151,8 +6204,8 @@ annually 	ADV
 total 	VERB
 some 	DET
 $ 38.3 billion 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 world-wide 	ADJ
 . 	.
 F.H. 	NOUN
@@ -6169,21 +6222,21 @@ company 	NOUN
 said 	VERB
 its 	PRON
 Moleculon Inc. 	NOUN
-
+remplissage NOUN
 affiliate 	NOUN
 acquired 	VERB
 Kalipharma Inc. 	NOUN
-
+remplissage NOUN
 for 	ADP
 $ 23 million 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 . 	.
 Kalipharma 	NOUN
 is 	VERB
 a 	DET
 New Jersey 	NOUN
-
+remplissage NOUN
 - 	.
 based 	VERB
 pharmaceuticals 	NOUN
@@ -6201,9 +6254,10 @@ said 	VERB
 it 	PRON
 owns 	VERB
 33 % 	NOUN
-
+remplissage NOUN
 of 	ADP
 Moleculon's 	NOUN
+remplissage NOUN
 voting 	NOUN
 stock 	NOUN
 and 	CONJ
@@ -6215,7 +6269,7 @@ acquire 	VERB
 an 	DET
 additional 	ADJ
 19 % 	NOUN
-
+remplissage NOUN
 . 	.
 That 	DET
 stake 	NOUN
@@ -6238,9 +6292,10 @@ its 	PRON
 interest 	NOUN
 to 	ADP
 70 % 	NOUN
-
+remplissage NOUN
 of 	ADP
 Moleculon's 	NOUN
+remplissage NOUN
 voting 	NOUN
 stock 	NOUN
 . 	.
@@ -6248,8 +6303,9 @@ Oil 	NOUN
 production 	NOUN
 from 	ADP
 Australia's 	NOUN
+remplissage NOUN
 Bass Strait 	NOUN
-
+remplissage NOUN
 fields 	NOUN
 will 	VERB
 be 	VERB
@@ -6290,24 +6346,24 @@ of 	ADP
 1990 	NOUN
 . 	.
 Esso Australia Ltd 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 . 	.
 , 	.
 a 	DET
 unit 	NOUN
 of 	ADP
 New York 	NOUN
-
+remplissage NOUN
 - 	.
 based 	VERB
 Exxon Corp. 	NOUN
-
+remplissage NOUN
 , 	.
 and 	CONJ
 Broken Hill Pty. 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 operate 	VERB
 the 	DET
 fields 	NOUN
@@ -6345,7 +6401,7 @@ has 	VERB
 reserves 	NOUN
 of 	ADP
 21 million 	NOUN
-
+remplissage NOUN
 barrels 	NOUN
 . 	.
 Reserves 	NOUN
@@ -6356,7 +6412,7 @@ new 	ADJ
 fields 	NOUN
 total 	VERB
 50 million 	NOUN
-
+remplissage NOUN
 barrels 	NOUN
 . 	.
 The 	DET
@@ -6401,7 +6457,7 @@ make 	VERB
 the 	DET
 first 	ADJ
 30 million 	NOUN
-
+remplissage NOUN
 barrels 	NOUN
 from 	ADP
 new 	ADJ
@@ -6412,20 +6468,20 @@ excise 	ADJ
 tax 	NOUN
 . 	.
 R.P. Scherer Corp. 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 said 	VERB
 it 	PRON
 completed 	VERB
 the 	DET
 $ 10.2 million 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 sale 	NOUN
 of 	ADP
 its 	PRON
 Southern Optical 	NOUN
-
+remplissage NOUN
 subsidiary 	NOUN
 to 	ADP
 a 	DET
@@ -6434,11 +6490,12 @@ led 	VERB
 by 	ADP
 the 	DET
 unit's 	NOUN
+remplissage NOUN
 president 	NOUN
 , 	.
 Thomas R. Sloan 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 , 	.
 and 	CONJ
 other 	ADJ
@@ -6453,7 +6510,7 @@ Scherer 	NOUN
 by 	ADP
 a 	DET
 buy out 	NOUN
-
+remplissage NOUN
 group 	NOUN
 led 	VERB
 by 	ADP
@@ -6495,7 +6552,7 @@ program 	NOUN
 . 	.
 The 	DET
 White House 	NOUN
-
+remplissage NOUN
 said 	VERB
 President 	NOUN
 Bush 	NOUN
@@ -6526,7 +6583,7 @@ U.S. 	NOUN
 , 	.
 the 	DET
 Virgin Islands 	NOUN
-
+remplissage NOUN
 and 	CONJ
 other 	ADJ
 U.S. 	NOUN
@@ -6536,23 +6593,23 @@ The 	DET
 action 	NOUN
 came 	VERB
 in response to 	ADP
-
-
+remplissage ADP
+remplissage ADP
 a 	DET
 petition 	NOUN
 filed 	VERB
 by 	ADP
 Timex Inc. 	NOUN
-
+remplissage NOUN
 for 	ADP
 changes 	NOUN
 in 	ADP
 the 	DET
 U.S. 	NOUN
 Generalized System of Preferences 	NOUN
-
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 for 	ADP
 imports 	NOUN
 from 	ADP
@@ -6592,7 +6649,7 @@ classifications 	NOUN
 . 	.
 The 	DET
 White House 	NOUN
-
+remplissage NOUN
 said 	VERB
 Mr. 	NOUN
 Bush 	NOUN
@@ -6608,7 +6665,7 @@ categories 	NOUN
 , 	.
 but 	CONJ
 turned down 	VERB
-
+remplissage VERB
 such 	DET
 treatment 	NOUN
 for 	ADP
@@ -6618,7 +6675,7 @@ of 	ADP
 watches 	NOUN
 `` 	.
 because of 	ADP
-
+remplissage ADP
 the 	DET
 potential 	NOUN
 for 	ADP
@@ -6634,7 +6691,7 @@ U.S. 	NOUN
 and 	CONJ
 the 	DET
 Virgin Islands 	NOUN
-
+remplissage NOUN
 . 	.
 " 	.
 Timex 	NOUN
@@ -6685,6 +6742,7 @@ beneficiaries 	NOUN
 of 	ADP
 the 	DET
 president's 	NOUN
+remplissage NOUN
 action 	NOUN
 . 	.
 Imports 	NOUN
@@ -6705,8 +6763,8 @@ treatment 	NOUN
 totaled 	VERB
 about 	ADV
 $ 37.3 million 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 in 	ADP
 1988 	NOUN
 , 	.
@@ -6717,8 +6775,8 @@ share 	NOUN
 of 	ADP
 the 	DET
 $ 1.5 billion 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 in 	ADP
 U.S. 	NOUN
 watch 	NOUN
@@ -6727,25 +6785,26 @@ that 	DET
 year 	NOUN
 , 	.
 according to 	ADP
-
+remplissage ADP
 an 	DET
 aide 	NOUN
 to 	ADP
 U.S. 	NOUN
 Trade Representative 	NOUN
-
+remplissage NOUN
 Carla Hills 	NOUN
-
+remplissage NOUN
 . 	.
 Magna International Inc.'s 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 chief 	ADJ
 financial 	ADJ
 officer 	NOUN
 , 	.
 James McAlpine 	NOUN
-
+remplissage NOUN
 , 	.
 resigned 	ADJ
 and 	CONJ
@@ -6753,15 +6812,15 @@ its 	PRON
 chairman 	NOUN
 , 	.
 Frank Stronach 	NOUN
-
+remplissage NOUN
 , 	.
 is 	VERB
 stepping in 	VERB
-
+remplissage VERB
 to 	PRT
 help 	VERB
 turn around 	VERB
-
+remplissage VERB
 the 	DET
 automotive 	ADJ
 parts 	NOUN
@@ -6802,7 +6861,7 @@ Magna 	NOUN
 said 	VERB
 . 	.
 Stephen Akerfeldt 	NOUN
-
+remplissage NOUN
 , 	.
 currently 	ADV
 vice 	NOUN
@@ -6850,7 +6909,7 @@ of 	ADP
 the 	DET
 past 	ADJ
 three years 	NOUN
-
+remplissage NOUN
 , 	.
 despite 	ADP
 steady 	ADJ
@@ -6868,6 +6927,7 @@ half 	DET
 and 	CONJ
 the 	DET
 company's 	NOUN
+remplissage NOUN
 Class 	NOUN
 A 	NOUN
 shares 	NOUN
@@ -6885,14 +6945,14 @@ dollars 	NOUN
 ( 	.
 US 	NOUN
 $ 13.73 	NOUN
-
+remplissage NOUN
 ) 	.
 . 	.
 On 	ADP
 the 	DET
 Toronto Stock Exchange 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 yesterday 	NOUN
 , 	.
 Magna 	NOUN
@@ -6905,7 +6965,7 @@ cents 	NOUN
 to 	ADP
 C 	X
 $ 9.625 	NOUN
-
+remplissage NOUN
 . 	.
 Mr. 	NOUN
 Stronach 	NOUN
@@ -6933,6 +6993,7 @@ a 	DET
 seat 	NOUN
 in 	ADP
 Canada's 	NOUN
+remplissage NOUN
 Parliament 	NOUN
 . 	.
 Analysts 	NOUN
@@ -6975,7 +7036,7 @@ restructuring 	NOUN
 assisted 	VERB
 by 	ADP
 Manfred Gingl 	NOUN
-
+remplissage NOUN
 , 	.
 president 	NOUN
 and 	CONJ
@@ -7016,14 +7077,14 @@ Lord 	NOUN
 Chilver 	NOUN
 , 	.
 63 year old 	ADJ
-
-
+remplissage ADJ
+remplissage ADJ
 chairman 	NOUN
 of 	ADP
 English China Clays PLC 	NOUN
-
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 , 	.
 was 	VERB
 named 	VERB
@@ -7040,9 +7101,9 @@ Japanese 	ADJ
 investors 	NOUN
 nearly 	ADV
 single handedly 	ADJ
-
+remplissage ADJ
 bought up 	VERB
-
+remplissage VERB
 two 	NUM
 new 	ADJ
 mortgage 	NOUN
@@ -7052,15 +7113,15 @@ mutual 	ADJ
 funds 	NOUN
 totaling 	VERB
 $ 701 million 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 , 	.
 the 	DET
 U.S. 	NOUN
 Federal National Mortgage Association 	NOUN
-
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 said 	VERB
 . 	.
 The 	DET
@@ -7079,12 +7140,13 @@ based 	VERB
 instruments 	NOUN
 , 	.
 Fannie Mae's 	NOUN
-
+remplissage NOUN
+remplissage NOUN
 chairman 	NOUN
 , 	.
 David O. Maxwell 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 , 	.
 said 	VERB
 at 	ADP
@@ -7095,9 +7157,9 @@ conference 	NOUN
 He 	PRON
 said 	VERB
 more than 	DET
-
+remplissage DET
 90 % 	NOUN
-
+remplissage NOUN
 of 	ADP
 the 	DET
 funds 	NOUN
@@ -7117,7 +7179,7 @@ from 	ADP
 France 	NOUN
 and 	CONJ
 Hong Kong 	NOUN
-
+remplissage NOUN
 . 	.
 Earlier 	ADJ
 this 	DET
@@ -7126,13 +7188,13 @@ year 	NOUN
 Japanese 	ADJ
 investors 	NOUN
 snapped up 	VERB
-
+remplissage VERB
 a 	DET
 similar 	ADJ
 , 	.
 $ 570 million 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 mortgage-backed 	ADJ
 securities 	NOUN
 mutual 	ADJ
@@ -7142,14 +7204,14 @@ That 	DET
 fund 	NOUN
 was 	VERB
 put together 	VERB
-
+remplissage VERB
 by 	ADP
 Blackstone Group 	NOUN
-
+remplissage NOUN
 , 	.
 a 	DET
 New York 	NOUN
-
+remplissage NOUN
 investment 	NOUN
 bank 	NOUN
 . 	.
@@ -7164,16 +7226,17 @@ by 	ADP
 Goldman 	NOUN
 , 	.
 Sachs & Co. 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 of 	ADP
 the 	DET
 U.S. 	NOUN
 and 	CONJ
 Japan's 	NOUN
+remplissage NOUN
 Daiwa Securities Co 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 . 	.
 The 	DET
 new 	ADJ
@@ -7302,14 +7365,14 @@ mortgage-backed 	ADJ
 securities 	NOUN
 to 	ADP
 more than 	DET
-
+remplissage DET
 1 % 	NOUN
-
+remplissage NOUN
 of 	ADP
 the 	DET
 $ 900 billion 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 in 	ADP
 such 	DET
 instruments 	NOUN
@@ -7333,23 +7396,24 @@ large 	ADJ
 purchasers 	NOUN
 of 	ADP
 Fannie Mae's 	NOUN
-
+remplissage NOUN
+remplissage NOUN
 corporate 	ADJ
 debt 	NOUN
 , 	.
 buying 	VERB
 $ 2.4 billion 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 in 	ADP
 Fannie Mae 	NOUN
-
+remplissage NOUN
 bonds 	NOUN
 during 	ADP
 the 	DET
 first 	ADJ
 nine months 	NOUN
-
+remplissage NOUN
 of 	ADP
 the 	DET
 year 	NOUN
@@ -7365,12 +7429,12 @@ amount 	NOUN
 issued 	VERB
 . 	.
 James L. Pate 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 , 	.
 54 year old 	ADJ
-
-
+remplissage ADJ
+remplissage ADJ
 executive 	NOUN
 vice 	NOUN
 president 	NOUN
@@ -7392,7 +7456,7 @@ to 	ADP
 members 	NOUN
 . 	.
 LTV Corp. 	NOUN
-
+remplissage NOUN
 said 	VERB
 a 	DET
 federal 	ADJ
@@ -7404,8 +7468,8 @@ to 	PRT
 extend 	VERB
 until 	ADP
 March 8, 1990 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 , 	.
 the 	DET
 period 	NOUN
@@ -7448,13 +7512,14 @@ court 	NOUN
 protection 	NOUN
 from 	ADP
 creditors' 	NOUN
+remplissage NOUN
 lawsuits 	NOUN
 while 	ADP
 it 	PRON
 attempts 	VERB
 to 	PRT
 work out 	VERB
-
+remplissage VERB
 a 	DET
 plan 	NOUN
 to 	PRT
@@ -7479,7 +7544,7 @@ unit 	NOUN
 began 	VERB
 its 	PRON
 $ 37 	NOUN
-
+remplissage NOUN
 - 	.
 a 	DET
 share 	NOUN
@@ -7510,12 +7575,13 @@ offer 	NOUN
 advertised 	VERB
 in 	ADP
 today's 	NOUN
+remplissage NOUN
 editions 	NOUN
 of 	ADP
 The Wall Street Journal 	NOUN
-
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 , 	.
 is 	VERB
 scheduled 	VERB
@@ -7532,9 +7598,10 @@ currently 	ADV
 owns 	VERB
 about 	ADV
 72 % 	NOUN
-
+remplissage NOUN
 of 	ADP
 Erbamont's 	NOUN
+remplissage NOUN
 common 	ADJ
 shares 	NOUN
 outstanding 	ADJ
@@ -7545,7 +7612,7 @@ is 	VERB
 being 	VERB
 launched 	VERB
 pursuant to 	ADP
-
+remplissage ADP
 a 	DET
 previously 	ADV
 announced 	VERB
@@ -7555,6 +7622,7 @@ the 	DET
 companies 	NOUN
 . 	.
 Japan's 	NOUN
+remplissage NOUN
 reserves 	NOUN
 of 	ADP
 gold 	NOUN
@@ -7572,18 +7640,18 @@ by 	ADP
 a 	DET
 hefty 	ADJ
 $ 1.82 billion 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 in 	ADP
 October 	NOUN
 to 	ADP
 $ 84.29 billion 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 , 	.
 the 	DET
 Finance Ministry 	NOUN
-
+remplissage NOUN
 said 	VERB
 . 	.
 The 	DET
@@ -7603,8 +7671,8 @@ the 	DET
 intensity 	NOUN
 of 	ADP
 Bank of Japan 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 yen 	NOUN
 support 	VERB
 intervention 	NOUN
@@ -7620,7 +7688,7 @@ surged 	VERB
 above 	ADP
 the 	DET
 150.00 yen 	NOUN
-
+remplissage NOUN
 level 	NOUN
 . 	.
 The 	DET
@@ -7629,20 +7697,21 @@ follows 	VERB
 a 	DET
 sharper 	ADJ
 $ 2.2 billion 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 decline 	NOUN
 in 	ADP
 the 	DET
 country's 	NOUN
+remplissage NOUN
 foreign 	ADJ
 reserves 	NOUN
 in 	ADP
 September 	NOUN
 to 	ADP
 $ 86.12 billion 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 . 	.
 Pick 	VERB
 a 	DET
@@ -7659,7 +7728,7 @@ investment 	NOUN
 craze 	NOUN
 sweeping 	VERB
 Wall Street 	NOUN
-
+remplissage NOUN
 : 	.
 a 	DET
 rash 	NOUN
@@ -7705,14 +7774,14 @@ the 	DET
 level 	NOUN
 of 	ADP
 all of 	DET
-
+remplissage DET
 1988 	NOUN
 , 	.
 according to 	ADP
-
+remplissage ADP
 Charles E. Simon 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 & 	CONJ
 Co 	NOUN
 . 	.
@@ -7742,6 +7811,7 @@ week 	NOUN
 the 	DET
 Philippine 	NOUN
 Fund's 	NOUN
+remplissage NOUN
 launch 	NOUN
 will 	VERB
 be 	VERB
@@ -7753,7 +7823,7 @@ by 	ADP
 Philippine 	ADJ
 President 	NOUN
 Corazon Aquino 	NOUN
-
+remplissage NOUN
 -- 	.
 the 	DET
 first 	ADJ
@@ -7764,13 +7834,13 @@ of 	ADP
 state 	NOUN
 has 	VERB
 kicked off 	VERB
-
+remplissage VERB
 an 	DET
 issue 	NOUN
 at 	ADP
 the 	DET
 Big Board 	NOUN
-
+remplissage NOUN
 here 	ADV
 . 	.
 The 	DET
@@ -7783,24 +7853,24 @@ is 	VERB
 possible 	ADJ
 -- 	.
 how about 	ADV
-
+remplissage ADV
 the 	DET
 New Guinea Fund 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 ? 	.
 " 	.
 quips 	VERB
 George Foot 	NOUN
-
+remplissage NOUN
 , 	.
 a 	DET
 managing 	VERB
 partner 	NOUN
 at 	ADP
 Newgate Management Associates 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 of 	ADP
 Northampton 	NOUN
 , 	.
@@ -7895,7 +7965,7 @@ be 	VERB
 listed 	VERB
 in 	ADP
 New York 	NOUN
-
+remplissage NOUN
 or 	CONJ
 London 	NOUN
 . 	.
@@ -7903,7 +7973,7 @@ These 	DET
 funds 	NOUN
 now 	ADV
 account for 	VERB
-
+remplissage VERB
 several 	DET
 billions 	NOUN
 of 	ADP
@@ -7928,11 +7998,11 @@ of 	ADP
 available 	ADJ
 nations 	NOUN
 runs out 	VERB
-
+remplissage VERB
 , 	.
 says 	VERB
 Michael Porter 	NOUN
-
+remplissage NOUN
 , 	.
 an 	DET
 analyst 	NOUN
@@ -7947,7 +8017,7 @@ Co 	NOUN
 . 	.
 , 	.
 New York 	NOUN
-
+remplissage NOUN
 . 	.
 Behind 	ADP
 all 	DET
@@ -8029,7 +8099,7 @@ mature 	ADJ
 markets 	NOUN
 , 	.
 such as 	ADP
-
+remplissage ADP
 the 	DET
 U.S. 	NOUN
 and 	CONJ
@@ -8054,7 +8124,7 @@ hard 	ADJ
 research 	NOUN
 of 	ADP
 seeking out 	VERB
-
+remplissage VERB
 individual 	ADJ
 companies 	NOUN
 . 	.
@@ -8082,6 +8152,7 @@ concern 	NOUN
 : 	.
 The 	DET
 funds' 	NOUN
+remplissage NOUN
 share 	NOUN
 prices 	NOUN
 tend 	VERB
@@ -8100,12 +8171,12 @@ market 	NOUN
 dropped 	VERB
 nearly 	ADV
 7 % 	NOUN
-
+remplissage NOUN
 Oct. 13 	NOUN
-
+remplissage NOUN
 , 	.
 for instance 	ADV
-
+remplissage ADV
 , 	.
 the 	DET
 Mexico 	NOUN
@@ -8113,14 +8184,14 @@ Fund 	NOUN
 plunged 	VERB
 about 	ADV
 18 % 	NOUN
-
+remplissage NOUN
 and 	CONJ
 the 	DET
 Spain 	NOUN
 Fund 	NOUN
 fell 	VERB
 16 % 	NOUN
-
+remplissage NOUN
 . 	.
 And 	CONJ
 most 	ADJ
@@ -8144,6 +8215,7 @@ wild 	ADJ
 about 	ADP
 the 	DET
 funds' 	NOUN
+remplissage NOUN
 frenzy 	NOUN
 right 	ADV
 now 	ADV
@@ -8172,12 +8244,12 @@ average 	ADJ
 discount 	NOUN
 of 	ADP
 more than 	DET
-
+remplissage DET
 20 % 	NOUN
-
+remplissage NOUN
 in 	ADP
 late 1987 	NOUN
-
+remplissage NOUN
 and 	CONJ
 part 	NOUN
 of 	ADP
@@ -8194,7 +8266,7 @@ average 	ADJ
 premium 	NOUN
 of 	ADP
 6 % 	NOUN
-
+remplissage NOUN
 . 	.
 The 	DET
 reason 	NOUN
@@ -8242,9 +8314,9 @@ foreign 	ADJ
 investors 	NOUN
 , 	.
 such as 	ADP
-
+remplissage ADP
 South Korea 	NOUN
-
+remplissage NOUN
 , 	.
 some 	DET
 specialists 	NOUN
@@ -8266,7 +8338,7 @@ to 	ADP
 a 	DET
 startling 	ADJ
 120 % 	NOUN
-
+remplissage NOUN
 premium 	NOUN
 . 	.
 It 	PRON
@@ -8284,6 +8356,7 @@ play 	NOUN
 tied 	VERB
 to 	ADP
 1992's 	NOUN
+remplissage NOUN
 European 	ADJ
 economic 	ADJ
 integration 	NOUN
@@ -8321,7 +8394,8 @@ valuations 	NOUN
 " 	.
 says 	VERB
 Smith Barney's 	NOUN
-
+remplissage NOUN
+remplissage NOUN
 Mr. 	NOUN
 Porter 	NOUN
 . 	.
@@ -8458,9 +8532,9 @@ For 	ADP
 people 	NOUN
 who 	PRON
 insist on 	VERB
-
+remplissage VERB
 jumping in 	VERB
-
+remplissage VERB
 now 	ADV
 to 	PRT
 buy 	VERB
@@ -8468,6 +8542,7 @@ the 	DET
 funds 	NOUN
 , 	.
 Newgate's 	NOUN
+remplissage NOUN
 Mr. 	NOUN
 Foot 	NOUN
 says 	VERB
@@ -8502,7 +8577,7 @@ The 	DET
 U.S. 	NOUN
 and 	CONJ
 Soviet Union 	NOUN
-
+remplissage NOUN
 are 	VERB
 holding 	VERB
 technical 	ADJ
@@ -8514,8 +8589,8 @@ by 	ADP
 Moscow 	NOUN
 of 	ADP
 $ 188 million 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 in 	ADP
 pre 	NOUN
 Communist 	ADJ
@@ -8529,7 +8604,7 @@ government 	NOUN
 , 	.
 the 	DET
 State Department 	NOUN
-
+remplissage NOUN
 said 	VERB
 . 	.
 If 	ADP
@@ -8564,7 +8639,7 @@ Soviets 	NOUN
 , 	.
 a 	DET
 State Department 	NOUN
-
+remplissage NOUN
 spokesman 	NOUN
 said 	VERB
 that 	CONJ
@@ -8588,7 +8663,7 @@ talks 	NOUN
 , 	.
 the 	DET
 State Department 	NOUN
-
+remplissage NOUN
 said 	VERB
 it 	PRON
 has 	VERB
@@ -8600,7 +8675,7 @@ to 	PRT
 open 	VERB
 a 	DET
 New York 	NOUN
-
+remplissage NOUN
 branch 	NOUN
 . 	.
 The 	DET
@@ -8608,10 +8683,10 @@ branch 	NOUN
 of 	ADP
 the 	DET
 Bank for Foreign Economic Affairs 	NOUN
-
-
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 was 	VERB
 approved 	VERB
 last 	ADJ
@@ -8638,8 +8713,8 @@ to 	PRT
 settle 	VERB
 the 	DET
 $ 188 million 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 debt 	NOUN
 , 	.
 which 	PRON
@@ -8648,6 +8723,7 @@ lent 	VERB
 to 	ADP
 the 	DET
 country's 	NOUN
+remplissage NOUN
 short-lived 	ADJ
 democratic 	ADJ
 Kerensky 	NOUN
@@ -8667,7 +8743,7 @@ law 	NOUN
 , 	.
 the 	DET
 Johnson Debt 	NOUN
-
+remplissage NOUN
 Default 	NOUN
 Act 	NOUN
 , 	.
@@ -8698,11 +8774,11 @@ members 	NOUN
 of 	ADP
 the 	DET
 World Bank 	NOUN
-
+remplissage NOUN
 and 	CONJ
 International Monetary Fund 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 . 	.
 The 	DET
 U.S.S.R. 	NOUN
@@ -8726,13 +8802,13 @@ recent 	ADJ
 years 	NOUN
 at 	ADP
 less than 	ADV
-
+remplissage ADV
 face 	NOUN
 value 	NOUN
 . 	.
 The 	DET
 State Department 	NOUN
-
+remplissage NOUN
 stressed 	VERB
 the 	DET
 pre 	NOUN
@@ -8746,7 +8822,7 @@ to 	PRT
 satisfying 	VERB
 the 	DET
 Johnson Act 	NOUN
-
+remplissage NOUN
 . 	.
 But 	CONJ
 the 	DET
@@ -8778,8 +8854,8 @@ outstanding 	ADJ
 from 	ADP
 the 	DET
 World War II 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 lend 	VERB
 lease 	NOUN
 program 	NOUN
@@ -8795,7 +8871,7 @@ the 	DET
 economy 	NOUN
 is 	VERB
 leveling off 	VERB
-
+remplissage VERB
 , 	.
 the 	DET
 government 	NOUN
@@ -8819,10 +8895,10 @@ Meanwhile 	ADV
 , 	.
 the 	DET
 National Association of Purchasing Management 	NOUN
-
-
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 said 	VERB
 its 	PRON
 latest 	ADJ
@@ -8845,14 +8921,14 @@ Its 	PRON
 index 	NOUN
 inched 	VERB
 up to 	ADV
-
+remplissage ADV
 47.6 % 	NOUN
-
+remplissage NOUN
 in 	ADP
 October 	NOUN
 from 	ADP
 46 % 	NOUN
-
+remplissage NOUN
 in 	ADP
 September 	NOUN
 . 	.
@@ -8860,7 +8936,7 @@ Any 	DET
 reading 	NOUN
 below 	ADP
 50 % 	NOUN
-
+remplissage NOUN
 suggests 	VERB
 the 	DET
 manufacturing 	NOUN
@@ -8885,15 +8961,15 @@ in 	ADP
 October 	NOUN
 after 	ADP
 four months 	NOUN
-
+remplissage NOUN
 of 	ADP
 decline 	NOUN
 . 	.
 Factories 	NOUN
 booked 	VERB
 $ 236.74 billion 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 in 	ADP
 orders 	NOUN
 in 	ADP
@@ -8905,14 +8981,14 @@ same 	ADJ
 as 	ADP
 the 	DET
 $ 236.79 billion 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 in 	ADP
 August 	NOUN
 , 	.
 the 	DET
 Commerce Department 	NOUN
-
+remplissage NOUN
 said 	VERB
 . 	.
 If 	ADP
@@ -8920,7 +8996,7 @@ not 	PRT
 for 	ADP
 a 	DET
 59.6 % 	NOUN
-
+remplissage NOUN
 surge 	NOUN
 in 	ADP
 orders 	NOUN
@@ -8937,7 +9013,7 @@ would 	VERB
 have 	VERB
 fallen 	VERB
 2.1 % 	NOUN
-
+remplissage NOUN
 . 	.
 In 	ADP
 a 	DET
@@ -8956,8 +9032,8 @@ annual 	ADJ
 rate 	NOUN
 of 	ADP
 $ 415.6 billion 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 , 	.
 not 	PRT
 significantly 	ADV
@@ -8965,8 +9041,8 @@ different 	ADJ
 from 	ADP
 the 	DET
 $ 415.8 billion 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 reported 	VERB
 for 	ADP
 August 	NOUN
@@ -9008,12 +9084,12 @@ for 	ADP
 inflation 	NOUN
 . 	.
 Kenneth Mayland 	NOUN
-
+remplissage NOUN
 , 	.
 economist 	NOUN
 for 	ADP
 Society Corp. 	NOUN
-
+remplissage NOUN
 , 	.
 a 	DET
 Cleveland 	NOUN
@@ -9030,7 +9106,7 @@ is 	VERB
 beginning 	VERB
 to 	PRT
 taper off 	VERB
-
+remplissage VERB
 . 	.
 At 	ADP
 the 	DET
@@ -9062,7 +9138,7 @@ stepping 	VERB
 forward 	ADV
 to 	PRT
 pick up 	VERB
-
+remplissage VERB
 the 	DET
 slack 	NOUN
 ? 	.
@@ -9083,6 +9159,7 @@ measures 	NOUN
 , 	.
 the 	DET
 nation's 	NOUN
+remplissage NOUN
 industrial 	ADJ
 sector 	NOUN
 is 	VERB
@@ -9105,8 +9182,9 @@ So 	ADV
 did 	VERB
 the 	DET
 Federal Reserve Board's 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 industrial 	ADJ
 production 	NOUN
 index 	NOUN
@@ -9153,7 +9231,7 @@ such 	DET
 clues 	NOUN
 , 	.
 for instance 	ADV
-
+remplissage ADV
 . 	.
 Economists 	NOUN
 say 	VERB
@@ -9175,6 +9253,7 @@ recession 	NOUN
 . 	.
 But 	CONJ
 yesterday's 	NOUN
+remplissage NOUN
 factory 	NOUN
 orders 	NOUN
 report 	NOUN
@@ -9191,7 +9270,7 @@ factory 	NOUN
 inventories 	NOUN
 fell 	VERB
 0.1 % 	NOUN
-
+remplissage NOUN
 in 	ADP
 September 	NOUN
 , 	.
@@ -9200,7 +9279,7 @@ first 	ADJ
 decline 	NOUN
 since 	ADP
 February 1987 	NOUN
-
+remplissage NOUN
 . 	.
 `` 	.
 This 	PRON
@@ -9211,6 +9290,7 @@ the 	DET
 soft 	ADJ
 landing 	NOUN
 ' 	.
+remplissage .
 scenario 	NOUN
 , 	.
 " 	.
@@ -9224,10 +9304,10 @@ at 	ADP
 Donaldson 	NOUN
 , 	.
 Lufkin & Jenrette Securities Corp 	NOUN
-
-
-
-
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
+remplissage NOUN
 . 	.
 `` 	.
 I 	PRON
@@ -9271,23 +9351,23 @@ intended 	VERB
 to 	PRT
 last 	VERB
 more than 	DET
-
+remplissage DET
 three years 	NOUN
-
+remplissage NOUN
 -- 	.
 fell 	VERB
 0.3 % 	NOUN
-
+remplissage NOUN
 in 	ADP
 September 	NOUN
 to 	ADP
 $ 109.73 billion 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 after 	ADV
 climbing 	VERB
 0.9 % 	NOUN
-
+remplissage NOUN
 the 	DET
 month 	NOUN
 before 	ADV
@@ -9299,15 +9379,15 @@ goods 	NOUN
 were 	VERB
 up 	ADV
 0.2 % 	NOUN
-
+remplissage NOUN
 to 	ADP
 $ 127.03 billion 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 after 	ADP
 rising 	VERB
 3.9 % 	NOUN
-
+remplissage NOUN
 the 	DET
 month 	NOUN
 before 	ADV
@@ -9322,7 +9402,7 @@ goods 	NOUN
 orders 	NOUN
 fell 	VERB
 0.1 % 	NOUN
-
+remplissage NOUN
 in 	ADP
 September 	NOUN
 . 	.
@@ -9330,15 +9410,15 @@ Factory 	NOUN
 shipments 	NOUN
 fell 	VERB
 1.6 % 	NOUN
-
+remplissage NOUN
 to 	ADP
 $ 234.4 billion 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 after 	ADP
 rising 	VERB
 5.4 % 	NOUN
-
+remplissage NOUN
 in 	ADP
 August 	NOUN
 . 	.
@@ -9352,23 +9432,24 @@ January 	NOUN
 , 	.
 the 	DET
 Commerce Department 	NOUN
-
+remplissage NOUN
 noted 	VERB
 . 	.
 Manufacturers' 	NOUN
+remplissage NOUN
 backlogs 	NOUN
 of 	ADP
 unfilled 	ADJ
 orders 	NOUN
 rose 	VERB
 0.5 % 	NOUN
-
+remplissage NOUN
 in 	ADP
 September 	NOUN
 to 	ADP
 $ 497.34 billion 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 , 	.
 helped 	VERB
 by 	ADP
@@ -9387,7 +9468,7 @@ orders 	NOUN
 backlogs 	NOUN
 declined 	VERB
 0.3 % 	NOUN
-
+remplissage NOUN
 . 	.
 In 	ADP
 its 	PRON
@@ -9397,14 +9478,14 @@ report 	NOUN
 , 	.
 the 	DET
 Commerce Department 	NOUN
-
+remplissage NOUN
 said 	VERB
 residential 	ADJ
 construction 	NOUN
 , 	.
 which 	PRON
 accounts for 	VERB
-
+remplissage VERB
 nearly 	ADV
 half 	NOUN
 of 	ADP
@@ -9415,7 +9496,7 @@ spending 	NOUN
 was 	VERB
 off 	ADJ
 0.9 % 	NOUN
-
+remplissage NOUN
 in 	ADP
 September 	NOUN
 to 	ADP
@@ -9424,11 +9505,11 @@ annual 	ADJ
 rate 	NOUN
 of 	ADP
 $ 191.9 billion 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 . 	.
 David Berson 	NOUN
-
+remplissage NOUN
 , 	.
 economist 	NOUN
 for 	ADP
@@ -9469,15 +9550,15 @@ construction 	NOUN
 was 	VERB
 off 	ADJ
 2.6 % 	NOUN
-
+remplissage NOUN
 to 	ADP
 an 	DET
 annual 	ADJ
 rate 	NOUN
 of 	ADP
 $ 99.1 billion 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 with 	ADP
 no 	DET
 sector 	NOUN
@@ -9489,11 +9570,11 @@ construction 	NOUN
 spending 	NOUN
 rose 	VERB
 4.3 % 	NOUN
-
+remplissage NOUN
 to 	ADP
 $ 88 billion 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 . 	.
 After 	ADV
 adjusting 	VERB
@@ -9502,7 +9583,7 @@ inflation 	NOUN
 , 	.
 the 	DET
 Commerce Department 	NOUN
-
+remplissage NOUN
 said 	VERB
 construction 	NOUN
 spending 	NOUN
@@ -9516,7 +9597,7 @@ For 	ADP
 the 	DET
 first 	ADJ
 nine months 	NOUN
-
+remplissage NOUN
 of 	ADP
 the 	DET
 year 	NOUN
@@ -9527,14 +9608,16 @@ spending 	NOUN
 ran 	VERB
 about 	ADV
 2 % 	NOUN
-
+remplissage NOUN
 above 	ADP
 last 	ADJ
 year's 	NOUN
+remplissage NOUN
 level 	NOUN
 . 	.
 The 	DET
 government's 	NOUN
+remplissage NOUN
 construction 	NOUN
 spending 	NOUN
 figures 	NOUN
@@ -9549,16 +9632,17 @@ the 	DET
 week 	NOUN
 by 	ADP
 McGraw-Hill Inc.'s 	NOUN
-
+remplissage NOUN
+remplissage NOUN
 F.W. Dodge Group 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 . 	.
 Dodge 	NOUN
 reported 	VERB
 an 	DET
 8 % 	NOUN
-
+remplissage NOUN
 increase 	NOUN
 in 	ADP
 construction 	NOUN
@@ -9601,6 +9685,7 @@ Although 	ADP
 the 	DET
 purchasing 	NOUN
 managers' 	NOUN
+remplissage NOUN
 index 	NOUN
 continues 	VERB
 to 	PRT
@@ -9619,12 +9704,13 @@ recession 	NOUN
 , 	.
 said 	VERB
 Robert Bretz 	NOUN
-
+remplissage NOUN
 , 	.
 chairman 	NOUN
 of 	ADP
 the 	DET
 association's 	NOUN
+remplissage NOUN
 survey 	NOUN
 committee 	NOUN
 and 	CONJ
@@ -9634,8 +9720,8 @@ materials 	NOUN
 management 	NOUN
 at 	ADP
 Pitney Bowes Inc. 	NOUN
-
-
+remplissage NOUN
+remplissage NOUN
 , 	.
 Stamford 	NOUN
 , 	.
@@ -9652,7 +9738,7 @@ in 	ADP
 the 	DET
 low 	ADJ
 40 % 	NOUN
-
+remplissage NOUN
 range 	NOUN
 for 	ADP
 several 	DET
@@ -9673,6 +9759,7 @@ evidence 	NOUN
 that 	CONJ
 the 	DET
 nation's 	NOUN
+remplissage NOUN
 export 	NOUN
 growth 	NOUN
 , 	.
@@ -9686,7 +9773,7 @@ slowing 	VERB
 . 	.
 Only 	ADV
 19 % 	NOUN
-
+remplissage NOUN
 of 	ADP
 the 	DET
 purchasing 	VERB
@@ -9701,13 +9788,13 @@ October 	NOUN
 down 	ADV
 from 	ADP
 27 % 	NOUN
-
+remplissage NOUN
 in 	ADP
 September 	NOUN
 . 	.
 And 	CONJ
 8 % 	NOUN
-
+remplissage NOUN
 said 	VERB
 export 	NOUN
 orders 	NOUN
@@ -9719,7 +9806,7 @@ month 	NOUN
 compared 	VERB
 with 	ADP
 6 % 	NOUN
-
+remplissage NOUN
 the 	DET
 month 	NOUN
 before 	ADV
@@ -9727,6 +9814,7 @@ before 	ADV
 The 	DET
 purhasing 	NOUN
 managers' 	NOUN
+remplissage NOUN
 report 	NOUN
 also 	ADV
 added 	VERB
@@ -9818,6 +9906,7 @@ rise 	VERB
 The 	DET
 purchasing 	NOUN
 managers' 	NOUN
+remplissage NOUN
 report 	NOUN
 is 	VERB
 based 	VERB
@@ -9826,7 +9915,7 @@ data 	NOUN
 provided 	VERB
 by 	ADP
 more than 	DET
-
+remplissage DET
 250 	NUM
 purchasing 	NOUN
 executives 	NOUN
@@ -9835,6 +9924,7 @@ Each 	DET
 of 	ADP
 the 	DET
 survey's 	NOUN
+remplissage NOUN
 indicators 	NOUN
 gauges 	VERB
 the 	DET
@@ -9876,12 +9966,12 @@ that 	CONJ
 of 	ADP
 the 	DET
 73 % 	NOUN
-
+remplissage NOUN
 who 	PRON
 import 	VERB
 , 	.
 10 % 	NOUN
-
+remplissage NOUN
 said 	VERB
 they 	PRON
 imported 	VERB
@@ -9890,7 +9980,7 @@ in 	ADP
 October 	NOUN
 and 	CONJ
 12 % 	NOUN
-
+remplissage NOUN
 said 	VERB
 they 	PRON
 imported 	VERB
@@ -9903,7 +9993,8 @@ month 	NOUN
 While 	ADP
 acknowledging 	VERB
 one month's 	NOUN
-
+remplissage NOUN
+remplissage NOUN
 figures 	NOUN
 do 	VERB
 n't 	PRT
@@ -9929,11 +10020,11 @@ down 	ADV
 , 	.
 or 	CONJ
 at least 	ADV
-
+remplissage ADV
 not 	PRT
 increasing 	VERB
 that much 	ADV
-
+remplissage ADV
 . 	.
 " 	.
 Items 	NOUN
@@ -9968,7 +10059,7 @@ odd 	ADJ
 thing 	NOUN
 to 	PRT
 put on 	VERB
-
+remplissage VERB
 the 	DET
 list 	NOUN
 , 	.
@@ -10025,10 +10116,10 @@ import 	NOUN
 quotas 	NOUN
 . 	.
 Pamela Sebastian 	NOUN
-
+remplissage NOUN
 in 	ADP
 New York 	NOUN
-
+remplissage NOUN
 contributed 	VERB
 to 	ADP
 this 	DET
@@ -10038,7 +10129,8 @@ Here 	ADV
 are 	VERB
 the 	DET
 Commerce Department's 	NOUN
-
+remplissage NOUN
+remplissage NOUN
 figures 	NOUN
 for 	ADP
 construction 	NOUN
@@ -10057,7 +10149,8 @@ Here 	ADV
 are 	VERB
 the 	DET
 Commerce Department's 	NOUN
-
+remplissage NOUN
+remplissage NOUN
 latest 	ADJ
 figures 	NOUN
 for 	ADP
@@ -10076,7 +10169,8 @@ the 	DET
 Americana 	NOUN
 in 	ADP
 Haruki Murakami's 	NOUN
-
+remplissage NOUN
+remplissage NOUN
 `` 	.
 A 	DET
 Wild 	NOUN
@@ -10090,7 +10184,7 @@ Kodansha 	NOUN
 pages 	NOUN
 , 	.
 $ 18.95 	NOUN
-
+remplissage NOUN
 ) 	.
 , 	.
 baby 	NOUN
@@ -10114,6 +10208,7 @@ Japan 	NOUN
 , 	.
 the 	DET
 novel's 	NOUN
+remplissage NOUN
 texture 	NOUN
 is 	VERB
 almost 	ADV
@@ -10143,10 +10238,10 @@ reruns 	NOUN
 They 	PRON
 read 	VERB
 Mickey Spillane 	NOUN
-
+remplissage NOUN
 and 	CONJ
 talk about 	VERB
-
+remplissage VERB
 Groucho 	NOUN
 and 	CONJ
 Harpo 	NOUN
@@ -10188,7 +10283,7 @@ engaging 	ADJ
 novel 	NOUN
 should 	VERB
 come in 	VERB
-
+remplissage VERB
 recognizing 	VERB
 that 	CONJ
 Japan 	NOUN
@@ -10272,6 +10367,7 @@ us 	PRON
 think 	VERB
 . 	.
 That's 	PRON
+remplissage PRON
 is 	VERB
 not 	PRT
 to 	PRT
@@ -10310,7 +10406,7 @@ nearly 	ADV
 30 	NUM
 hero 	NOUN
 sets off 	VERB
-
+remplissage VERB
 for 	ADP
 snow 	NOUN
 country 	NOUN
@@ -10375,6 +10471,7 @@ offers 	VERB
 the 	DET
 hero 	NOUN
 God's 	NOUN
+remplissage NOUN
 phone 	NOUN
 number 	NOUN
 ; 	.
@@ -10399,8 +10496,8 @@ sheepskin 	NOUN
 . 	.
 The 	DET
 40 year old 	ADJ
-
-
+remplissage ADJ
+remplissage ADJ
 Mr. 	NOUN
 Murakami 	NOUN
 is 	VERB
@@ -10436,9 +10533,9 @@ lyrics 	NOUN
 has 	VERB
 sold 	VERB
 more than 	DET
-
+remplissage DET
 four million 	NOUN
-
+remplissage NOUN
 copies 	NOUN
 since 	ADP
 Kodansha 	NOUN
@@ -10458,6 +10555,7 @@ youthful 	ADJ
 writers 	NOUN
 -- 	.
 Tokyo's 	NOUN
+remplissage NOUN
 brat 	NOUN
 pack 	NOUN
 -- 	.
@@ -10490,7 +10588,8 @@ Americana 	NOUN
 . 	.
 In 	ADP
 Robert Whiting's 	NOUN
-
+remplissage NOUN
+remplissage NOUN
 `` 	.
 You 	PRON
 Gotta 	NOUN
@@ -10504,7 +10603,7 @@ Macmillan 	NOUN
 pages 	NOUN
 , 	.
 $ 17.95 	NOUN
-
+remplissage NOUN
 ) 	.
 , 	.
 the 	DET
@@ -10544,6 +10643,7 @@ a 	DET
 mirror 	NOUN
 of 	ADP
 Japan's 	NOUN
+remplissage NOUN
 fabled 	ADJ
 virtues 	NOUN
 of 	ADP
@@ -10575,6 +10675,7 @@ it 	PRON
 . 	.
 A 	DET
 player's 	NOUN
+remplissage NOUN
 commitment 	NOUN
 to 	ADP
 practice 	NOUN
@@ -10617,7 +10718,7 @@ Japan 	NOUN
 . 	.
 But 	CONJ
 other than 	ADP
-
+remplissage ADP
 the 	DET
 fact 	NOUN
 that 	CONJ
@@ -10649,7 +10750,7 @@ strike 	NOUN
 zone 	NOUN
 expands 	VERB
 depending on 	ADP
-
+remplissage ADP
 the 	DET
 size 	NOUN
 of 	ADP
@@ -10675,7 +10776,7 @@ defeat 	NOUN
 players 	NOUN
 must 	VERB
 abide by 	VERB
-
+remplissage VERB
 strict 	ADJ
 rules 	NOUN
 of 	ADP
@@ -10693,7 +10794,7 @@ Tokyo 	NOUN
 Giants 	NOUN
 , 	.
 for example 	ADV
-
+remplissage ADV
 , 	.
 must 	VERB
 always 	ADV
@@ -10741,7 +10842,7 @@ they 	PRON
 paid 	VERB
 to 	PRT
 stand up 	VERB
-
+remplissage VERB
 at 	ADP
 a 	DET
 Japanese 	ADJ
@@ -10772,11 +10873,11 @@ Soho 	NOUN
 pages 	NOUN
 , 	.
 $ 17.95 	NOUN
-
+remplissage NOUN
 ) 	.
 by 	ADP
 Gary Katzenstein 	NOUN
-
+remplissage NOUN
 is 	VERB
 anything 	NOUN
 but 	ADV
@@ -10802,7 +10903,7 @@ was 	VERB
 on 	ADP
 a 	DET
 Luce Fellowship 	NOUN
-
+remplissage NOUN
 in 	ADP
 Tokyo 	NOUN
 -- 	.
@@ -10839,6 +10940,7 @@ aspects 	NOUN
 of 	ADP
 its 	PRON
 workers' 	NOUN
+remplissage NOUN
 lives 	NOUN
 -- 	.
 at 	ADP

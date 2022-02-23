@@ -48,22 +48,18 @@ if __name__ == '__main__':
    nCandidateWords = 0
    nReferenceWords = 0
 
-   cpt = 0
-   cpt2 = 0
    first = True
 
 
    fileCandidate = open(sCandidate, 'r')
 
-
+   # Pour chaque ligne du fichier candidat on parcourt le fichier de reference
+   # Si la ligne candidate corespond a la ligne de reference alors on incremente les valeurs de mot corectq et de Tag corects
    for line in fileCandidate:
        tupCandidate = line.split("\t")
        wordCandiate = tupCandidate[0]
        TagCandidate = tupCandidate[1].replace("\n","").replace(" ","")
-       cpt = cpt + 1
        nCandidateWords = nCandidateWords + 1
-       #if (cpt > 10):
-       #    break
        fileRef = open(sReference, 'r')
        for lineRef in fileRef:
            if(first == True):
@@ -76,11 +72,7 @@ if __name__ == '__main__':
                fileRef.close()
                first = False
                break
-           #cpt2 = cpt2 + 1
-           #if (cpt2 > 10):
-           #     cpt2 = 0
-           #     break
-
+           
    fileCandidate.close()
    fileRef.close()
 
@@ -109,50 +101,3 @@ if __name__ == '__main__':
 
    print("Word F-measure:", word_fmeasure)
    print("Tag F-measure:", tag_fmeasure)
-
-
-
-'''
-
-
-   #while lReference and lCandidate:
-   for test in lCandidate:
-
-      cpt= cpt+1
-      print(test)
-      #print(lReference)
-      n=len(lCandidate)
-      if(cpt >10):
-          break
-'''
-'''
-      nCandidateWords += len(lCandidate)
-      nReferenceWords += len(lReference)
-      nCorrectWords, nCorrectTags = evaluateSentence(lCandidate, lReference)
-      nTotalCorrectWords += nCorrectWords
-      nTotalCorrectTags += nCorrectTags
-      lReference = fReference.readNonEmptySentence(bIgnoreNoneTag=True); lCandidate = fCandidate.readNonEmptySentence(bIgnoreNoneTag=True)
-
-   if ( lReference and not lCandidate ) or ( lCandidate and not lReference ) :
-      print ("Warning: the reference and the candidate consists of different number of lines!")
-'''
-'''
-   word_precision = float(nTotalCorrectWords) / float(nCandidateWords)
-   word_recall = float(nTotalCorrectWords) / float(nReferenceWords)
-   tag_precision = float(nTotalCorrectTags) / float(nCandidateWords)
-   tag_recall = float(nTotalCorrectTags) / float(nReferenceWords)
-   word_fmeasure = (2*word_precision*word_recall)/(word_precision+word_recall)
-   if tag_precision+tag_recall==0:
-      tag_fmeasure = 0.0
-   else:
-      tag_fmeasure = (2*tag_precision*tag_recall)/(tag_precision+tag_recall)
-
-   print ("Word precision:", word_precision)
-   print ("Word recall:", word_recall)
-
-   print ("Tag precision:", tag_precision)
-   print ("Tag recall:", tag_recall)
-
-   print ("Word F-measure:", word_fmeasure)
-   print ("Tag F-measure:",  tag_fmeasure)
-'''

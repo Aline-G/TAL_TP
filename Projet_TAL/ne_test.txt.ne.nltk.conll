@@ -1,1492 +1,903 @@
-Mary	PERS
-
-Barra	PERS
-
-General	ORG
-
-United	LOC
-
-General	ORG
-
-Mary	PERS
-
-Barra	LOC
-
-American	LOC
-
-General	ORG
-
-Daniel	PERS
-
-Akerson	PERS
-
-General	ORG
-
-America	LOC
-
-Akerson	PERS
-
-Daniel	PERS
-
-US	LOC
-
-General	ORG
-
-Motors	PERS
-
-Akerson	PERS
-
-United	LOC
-
-Barra	LOC
-
-University	ORG
-
-Flint	LOC
-
-Michigan	PERS
-
-Forbes	ORG
-
-US	LOC
-
-Senate	ORG
-
-United	LOC
-
-Chrysler	PERS
-
-Ford	ORG
-
-General	ORG
-
-United	LOC
-
-Senate	ORG
-
-Republican	ORG
-
-United	ORG
-
-UAW	ORG
-
-Japanese	LOC
-
-United	LOC
-
-UAW	ORG
-
-Senate	ORG
-
-Senate	ORG
-
-Harry	PERS
-
-Wall	ORG
-
-Reid	PERS
-
-Americans	LOC
-
-Republican	ORG
-
-Bob	PERS
-
-U.S.	LOC
-
-Bush	PERS
-
-Wall	ORG
-
-Stock	LOC
-
-Japan	LOC
-
-Nikkei	ORG
-
-Shares	LOC
-
-Toyota	PERS
-
-Nissan	LOC
-
-Honda	LOC
-
-European	LOC
-
-United	ORG
-
-Germany	LOC
-
-White	ORG
-
-House	ORG
-
-American	LOC
-
-Senate	ORG
-
-White	ORG
-
-US	ORG
-
-White	ORG
-
-US	LOC
-
-TARP	ORG
-
-Dana	PERS
-
-White	ORG
-
-Ford	LOC
-
-Chrysler	PERS
-
-General	ORG
-
-Congress	ORG
-
-House	ORG
-
-Senate	ORG
-
-Part	LOC
-
-Japanese	LOC
-
-Motors	PERS
-
-North	LOC
-
-American	LOC
-
-Chrysler	PERS
-
-Chrysler	PERS
-
-U.S.	LOC
-
-GM	ORG
-
-Chrysler	PERS
-
-United	LOC
-
-UAW	ORG
-
-GM	ORG
-
-Congress	ORG
-
-Detroit	LOC
-
-UAW	ORG
-
-Delco	ORG
-
-Hummer	ORG
-
-Saab	PERS
-
-Ford	ORG
-
-Chrysler	PERS
-
-United	LOC
-
-United	LOC
-
-General	ORG
-
-Motors	PERS
-
-Chrysler	PERS
-
-Japanese	LOC
-
-Toyota	PERS
-
-US	LOC
-
-Nissan	PERS
-
-Honda	LOC
-
-Subaru	LOC
-
-South	LOC
-
-Hyundai	PERS
-
-US	LOC
-
-US	LOC
-
-GM	ORG
-
-Chrysler	PERS
-
-Chrysler	PERS
-
-United	LOC
-
-Chrysler	PERS
-
-US	LOC
-
-Chrysler	PERS
-
-Chrysler	ORG
-
-PT	ORG
-
-Durango	PERS
-
-General	ORG
-
-US	ORG
-
-Rick	PERS
-
-GM	ORG
-
-General	ORG
-
-US	LOC
-
-Ford	ORG
-
-US	ORG
-
-Chrysler	PERS
-
-Canadian	LOC
-
-US	LOC
-
-Chrysler	PERS
-
-Canada	LOC
-
-Ontario	LOC
-
-Canadian	LOC
-
-US	LOC
-
-Canadian	LOC
-
-United	LOC
-
-Canada	LOC
-
-Stephen	PERS
-
-Canada	LOC
-
-American	LOC
-
-America	LOC
-
-Barack	PERS
-
-United	LOC
-
-Chrysler	PERS
-
-Chrysler	PERS
-
-Chrysler	PERS
-
-Fiat	PERS
-
-US	LOC
-
-Fiat	LOC
-
-Chrysler	PERS
-
-North	LOC
-
-American	LOC
-
-Chrysler	ORG
-
-Chrysler	PERS
-
-Tom	PERS
-
-Chrysler	PERS
-
-Canadian	LOC
-
-US	LOC
-
-Canadian	LOC
-
-Auto	ORG
-
-CAW	ORG
-
-Chrysler	PERS
-
-Canada	LOC
-
-General	ORG
-
-Rick	PERS
-
-Fritz	PERS
-
-Henderson	PERS
-
-GM	ORG
-
-Obama	PERS
-
-Chrysler	PERS
-
-Canada	LOC
-
-GM	ORG
-
-Canadian	LOC
-
-GM	ORG
-
-SUVs	ORG
-
-Tony	PERS
-
-Clement	ORG
-
-Canada	LOC
-
-Industry	LOC
-
-CAW	ORG
-
-United	LOC
-
-UAW	ORG
-
-Obama	ORG
-
-Obama	PERS
-
-India	LOC
-
-Chrysler	PERS
-
-US	ORG
-
-India	LOC
-
-US	ORG
-
-US	LOC
-
-US	ORG
-
-Indian	LOC
-
-Canadians	LOC
-
-Betty	PERS
-
-Sutton	ORG
-
-Ohio	PERS
-
-Congresswoman	ORG
-
-CARS	ORG
-
-William	PERS
-
-Ford	ORG
-
-Chrysler	PERS
-
-US	ORG
-
-General	ORG
-
-General	ORG
-
-United	LOC
-
-Chrysler	PERS
-
-Chrysler	PERS
-
-Japanese	LOC
-
-US	LOC
-
-March	LOC
-
-Ford	ORG
-
-GM	ORG
-
-Jesse	PERS
-
-Edmunds	PERS
-
-US	LOC
-
-US	ORG
-
-Toyota	PERS
-
-US	ORG
-
-Chrysler	LOC
-
-Fiat	PERS
-
-American	LOC
-
-Chrysler	PERS
-
-European	LOC
-
-Fiat	PERS
-
-Chrysler	PERS
-
-United	ORG
-
-United	LOC
-
-Canadian	LOC
-
-Fiat	PERS
-
-Chrysler	PERS
-
-Robert	PERS
-
-Italian	LOC
-
-Fiat	PERS
-
-Chrysler	PERS
-
-United	LOC
-
-Fiat	LOC
-
-American	LOC
-
-Chrysler	LOC
-
-Chrysler	PERS
-
-Fiat	PERS
-
-Chrysler	PERS
-
-Fiat	PERS
-
-Chrysler	PERS
-
-American	LOC
-
-Obama	PERS
-
-Fiat	PERS
-
-Erich	PERS
-
-Merkle	PERS
-
-Steve	PERS
-
-U.S.	LOC
-
-Obama	LOC
-
-Fiat	LOC
-
-Fiat	LOC
-
-Chrysler	PERS
-
-Chrysler	LOC
-
-United	LOC
-
-Chrysler	LOC
-
-Europe	LOC
-
-US	LOC
-
-United	LOC
-
-General	ORG
-
-US	ORG
-
-GM	ORG
-
-Ray	PERS
-
-GM	ORG
-
-GM	ORG
-
-Himanshu	PERS
-
-U.S.	LOC
-
-Chrysler	PERS
-
-American	LOC
-
-Chrysler	PERS
-
-US	ORG
-
-Jim	PERS
-
-Chrysler	LOC
-
-Company	LOC
-
-Press	PERS
-
-U.S.	LOC
-
-GM	ORG
-
-American	LOC
-
-General	ORG
-
-Chrysler	PERS
-
-U.S.	LOC
-
-Chrylser	LOC
-
-GM	ORG
-
-GM	ORG
-
-U.S.	LOC
-
-U.S.	LOC
-
-GM	ORG
-
-GM	ORG
-
-Bankruptcy	LOC
-
-U.S.	LOC
-
-United	LOC
-
-General	ORG
-
-GM	ORG
-
-US	ORG
-
-U.S.	LOC
-
-Barack	PERS
-
-GM	ORG
-
-GM	ORG
-
-University	ORG
-
-Michigan	PERS
-
-U.S.	LOC
-
-General	ORG
-
-United	LOC
-
-General	ORG
-
-UTC	ORG
-
-Manhattan	LOC
-
-New	LOC
-
-U.S.	LOC
-
-U.S.	LOC
-
-Lehman	ORG
-
-Washington	ORG
-
-WorldCom	ORG
-
-Barack	PERS
-
-Obama	ORG
-
-GM	ORG
-
-White	ORG
-
-United	LOC
-
-Barack	PERS
-
-General	ORG
-
-U.S.	LOC
-
-Obama	PERS
-
-General	ORG
-
-General	ORG
-
-United	LOC
-
-Canada	LOC
-
-Ontario	LOC
-
-Germany	LOC
-
-GM	ORG
-
-General	ORG
-
-United	LOC
-
-US	LOC
-
-General	ORG
-
-Chrysler	PERS
-
-Chrysler	LOC
-
-General	ORG
-
-Chrysler	PERS
-
-General	ORG
-
-General	ORG
-
-Chrysler	PERS
-
-GM	ORG
-
-GM	ORG
-
-GM	ORG
-
-GM	ORG
-
-America	LOC
-
-United	LOC
-
-Charles	PERS
-
-U.S.	LOC
-
-Defense	LOC
-
-General	ORG
-
-United	LOC
-
-America	LOC
-
-GM	ORG
-
-New	LOC
-
-New	LOC
-
-Fritz	PERS
-
-General	ORG
-
-New	LOC
-
-U.S.	LOC
-
-Henderson	PERS
-
-General	ORG
-
-New	LOC
-
-Henderson	PERS
-
-General	ORG
-
-United	ORG
-
-Canadian	LOC
-
-Auto	ORG
-
-GM	ORG
-
-GM	ORG
-
-GM	ORG
-
-German	LOC
-
-United	LOC
-
-GM	ORG
-
-U.S.	LOC
-
-New	LOC
-
-U.S.	LOC
-
-New	ORG
-
-U.S.	LOC
-
-New	LOC
-
-GM	ORG
-
-General	ORG
-
-Latin	LOC
-
-Europe	LOC
-
-Middle	LOC
-
-Asia	LOC
-
-Pacific	ORG
-
-GM	ORG
-
-China	LOC
-
-New	ORG
-
-New	ORG
-
-China	LOC
-
-U.S.	LOC
-
-GM	ORG
-
-China	LOC
-
-China	LOC
-
-U.S.	LOC
-
-U.S.	LOC
-
-New	ORG
-
-EBIT	ORG
-
-U.S.	LOC
-
-U.S.	LOC
-
-U.S.	LOC
-
-Treasury	ORG
-
-Penske	PERS
-
-Auto	PERS
-
-General	ORG
-
-Saturn	PERS
-
-General	ORG
-
-American	LOC
-
-Penske	ORG
-
-PAG	ORG
-
-Saturn	PERS
-
-Saturn	ORG
-
-Sky	ORG
-
-Astra	PERS
-
-Aura	ORG
-
-SUV	ORG
-
-Vue	PERS
-
-Outlook	PERS
-
-Saturn	LOC
-
-United	LOC
-
-Saturn	ORG
-
-Canadian	LOC
-
-Saturn	ORG
-
-Penske	LOC
-
-Saturn	PERS
-
-PAG	ORG
-
-Renault	PERS
-
-Korea	LOC
-
-Penske	LOC
-
-Jill	PERS
-
-Saturn	PERS
-
-Tom	PERS
-
-Chrysler	ORG
-
-GM	ORG
-
-Serra	PERS
-
-Automotive	ORG
-
-Grand	LOC
-
-Genesee	PERS
-
-Michigan	PERS
-
-Penske	PERS
-
-US	LOC
-
-Ford	ORG
-
-US	LOC
-
-Ford	LOC
-
-Ford	ORG
-
-Alan	PERS
-
-Automaker	PERS
-
-Opel	ORG
-
-US	LOC
-
-General	ORG
-
-Motors	PERS
-
-European	LOC
-
-Opel	PERS
-
-John	PERS
-
-Opel	ORG
-
-Smith	PERS
-
-European	LOC
-
-GM	ORG
-
-Opel	PERS
-
-Magna	LOC
-
-Canadian	LOC
-
-Germany	LOC
-
-GM	ORG
-
-Magna	ORG
-
-Germany	LOC
-
-German	LOC
-
-Rainer	PERS
-
-German	LOC
-
-North	LOC
-
-General	ORG
-
-UK	ORG
-
-Britain	LOC
-
-British	LOC
-
-Unite	PERS
-
-Tony	PERS
-
-General	ORG
-
-BBC	ORG
-
-Opel	PERS
-
-Germany	LOC
-
-US	ORG
-
-US	LOC
-
-Ford	ORG
-
-Ford	ORG
-
-US	LOC
-
-Alan	PERS
-
-Ford	ORG
-
-Ford	LOC
-
-US	ORG
-
-United	LOC
-
-Toyota	PERS
-
-General	ORG
-
-Ford	PERS
-
-GM	ORG
-
-Ford	PERS
-
-US	LOC
-
-Ford	ORG
-
-Ford	LOC
-
-Rental	LOC
-
-Fusion	ORG
-
-Taurus	LOC
-
-SUVs	ORG
-
-Toyota	PERS
-
-Ken	PERS
-
-Ford	ORG
-
-Fiat	LOC
-
-Chrysler	LOC
-
-Fiat	PERS
-
-Chrysler	PERS
-
-US	LOC
-
-Italian	LOC
-
-Chrysler	LOC
-
-Fiat	PERS
-
-US	ORG
-
-Chrysler	LOC
-
-US	LOC
-
-Fiat	PERS
-
-Fiat	PERS
-
-Chrysler	LOC
-
-Maryann	PERS
-
-Analyst	PERS
-
-Rebecca	PERS
-
-Ford	ORG
-
-America	LOC
-
-North	LOC
-
-American	LOC
-
-Ford	ORG
-
-William	PERS
-
-Ford	ORG
-
-North	LOC
-
-American	LOC
-
-Ford	ORG
-
-North	LOC
-
-American	LOC
-
-Ford	ORG
-
-Atlanta	ORG
-
-St.	LOC
-
-Atlanta	LOC
-
-Ford	ORG
-
-St.	ORG
-
-Ford	ORG
-
-Michigan	PERS
-
-Batavia	PERS
-
-Ohio	LOC
-
-Windsor	ORG
-
-Ontario	LOC
-
-Canadian	LOC
-
-Auto	ORG
-
-St.	LOC
-
-Ontario	LOC
-
-Crown	ORG
-
-Grand	PERS
-
-Whitey	PERS
-
-Local	ORG
-
-Canadian	LOC
-
-Auto	ORG
-
-Ford	ORG
-
-Automotive	LOC
-
-Dennis	PERS
-
-St.	ORG
-
-Ford	ORG
-
-United	ORG
-
-Ford	ORG
-
-UAW	ORG
-
-Ron	PERS
-
-Gerald	PERS
-
-UAW	ORG
-
-Ford	ORG
-
-General	ORG
-
-General	ORG
-
-GM	ORG
-
-US	ORG
-
-US	ORG
-
-Ford	LOC
-
-American	LOC
-
-Toyota	PERS
-
-North	LOC
-
-GM	ORG
-
-Japanese	LOC
-
-Toyota	PERS
-
-Nissan	LOC
-
-GM	ORG
-
-Kirk	PERS
-
-GMs	ORG
-
-Saab	PERS
-
-Australian	LOC
-
-Ford	ORG
-
-Australian	LOC
-
-John	PERS
-
-Ian	PERS
-
-Ford	ORG
-
-US	ORG
-
-Victorian	LOC
-
-Howard	PERS
-
-Ford	ORG
-
-Australia	LOC
-
-Ford	ORG
-
-Falcon	PERS
-
-Territory	ORG
-
-Australia	LOC
-
-Falcon	ORG
-
-Falcon	PERS
-
-Holden	PERS
-
-Falcon	ORG
-
-Howard	PERS
-
-MacFarlane	ORG
-
-Australia	LOC
-
-Australian	LOC
-
-Ford	ORG
-
-Australia	LOC
-
-Australian	LOC
-
-Ford	ORG
-
-Asia	LOC
-
-Australia	LOC
-
-Australian	LOC
-
-MacFarlane	ORG
-
-Howard	PERS
-
-Australia	LOC
-
-Ford	ORG
-
-Australian	LOC
-
-Ford	LOC
-
-US	ORG
-
-Canadian	LOC
-
-U.S.	LOC
-
-George	PERS
-
-Pipas	LOC
-
-Ford	ORG
-
-SUV	ORG
-
-Thomas	PERS
-
-St.	LOC
-
-Ontario	PERS
-
-Canada	PERS
-
-Chicago	LOC
-
-Illinois	PERS
-
-Wixom	PERS
-
-Wixom	LOC
-
-Michigan	PERS
-
-Michigan	PERS
-
-Louisville	PERS
-
-Louisville	LOC
-
-Kentucky	PERS
-
-Michigan	PERS
-
-Wayne	LOC
-
-Michigan	PERS
-
-Paul	PERS
-
-Minnesota	PERS
-
-Kansas	PERS
-
-Kansas	PERS
-
-Missouri	PERS
-
-Norfolk	PERS
-
-Norfolk	LOC
-
-Virginia	PERS
-
-Dearborn	LOC
-
-Michigan	PERS
-
-New	LOC
-
-Alan	PERS
-
-Ford	ORG
-
-Ford	ORG
-
-Taurus	LOC
-
-Mulally	LOC
-
-Ford	PERS
-
-Mulally	PERS
-
-Ford	ORG
-
-Taurus	ORG
-
-Falcon	ORG
-
-Ford	ORG
-
-American	LOC
-
-Taurus	ORG
-
-Taurus	LOC
-
-Alan	PERS
-
-Mulally	PERS
-
-America	LOC
-
-Five	ORG
-
-Taurus	LOC
-
-Taurus	LOC
-
-DaimlerChrysler	ORG
-
-International	LOC
-
-DaimlerChrysler	ORG
-
-North	LOC
-
-Chrysler	PERS
-
-U.S.	LOC
-
-Canada	LOC
-
-Chrysler	ORG
-
-Solaris	ORG
-
-Tim	PERS
-
-Chrysler	PERS
-
-DaimlerChrysler	ORG
-
-Dieter	PERS
-
-Chrysler	ORG
-
-DaimlerChrysler	ORG
-
-DaimlerChrysler	LOC
-
-Chrysler	PERS
-
-DaimlerChrysler	ORG
-
-Chrysler	ORG
-
-New	LOC
-
-Cerberus	PERS
-
-US	LOC
-
-Daimler	PERS
-
-Chrysler	PERS
-
-DaimlerChrysler	ORG
-
-Chrysler	LOC
-
-Cerberus	LOC
-
-Chrysler	ORG
-
-Cerberus	LOC
-
-GMAC	LOC
-
-GM	ORG
-
-Delphi	ORG
-
-Buzz	PERS
-
-Canadian	LOC
-
-Auto	ORG
-
-Chrysler	PERS
-
-German	LOC
-
-DaimlerChrysler	ORG
-
-Daimler	PERS
-
-US	LOC
-
-Romanian	LOC
-
-U.S.	LOC
-
-US	ORG
-
-Romanian	LOC
-
-Romanian	LOC
-
-Ford	ORG
-
-Sebastian	PERS
-
-State	ORG
-
-AVAS	ORG
-
-Ford	ORG
-
-Vladescu	PERS
-
-Frankfurt	LOC
-
-Romanian	LOC
-
-Daewoo	ORG
-
-US	LOC
-
-Korean	LOC
-
-Washington	LOC
-
-European	LOC
-
-Union	ORG
-
-Renault	PERS
-
-Dacia	LOC
-
-Constantin	ORG
-
-Romania	LOC
-
-Europe	LOC
-
-Stroe	PERS
-
-HotNews	ORG
-
+Mary	B-PERS
+Barra	I-PERS
+General	B-ORG
+Motors	I-ORG
+United	B-LOC
+States	I-LOC
+General	B-ORG
+Motors	I-ORG
+Mary	B-PERS
+Barra	I-PERS
+Barra	B-LOC
+American	I-LOC
+General	B-ORG
+Motors	I-ORG
+Daniel	B-PERS
+Akerson	I-PERS
+Akerson	I-PERS
+General	B-ORG
+Motors	I-ORG
+America	B-LOC
+Akerson	B-PERS
+Daniel	I-PERS
+US	B-LOC
+General	B-ORG
+Motors	B-PERS
+Akerson	I-PERS
+United	B-LOC
+States	I-LOC
+Barra	I-LOC
+University	B-ORG
+Flint	B-LOC
+Michigan	B-PERS
+Forbes	B-ORG
+US	B-LOC
+Senate	B-ORG
+United	B-LOC
+States	I-LOC
+Chrysler	B-PERS
+Ford	B-ORG
+General	I-ORG
+United	B-LOC
+States	I-LOC
+Senate	B-ORG
+Republican	I-ORG
+United	B-ORG
+Auto	I-ORG
+Workers	I-ORG
+UAW	I-ORG
+Japanese	B-LOC
+United	I-LOC
+UAW	B-ORG
+Senate	I-ORG
+Senate	I-ORG
+Harry	B-PERS
+Reid	I-PERS
+Wall	B-ORG
+Street	I-ORG
+Reid	B-PERS
+Americans	B-LOC
+Republican	B-ORG
+Bob	B-PERS
+Corker	I-PERS
+U.S.	B-LOC
+Bush	B-PERS
+Wall	B-ORG
+Street	I-ORG
+Stock	B-LOC
+Japan	I-LOC
+Nikkei	B-ORG
+Shares	B-LOC
+Toyota	B-PERS
+Nissan	B-LOC
+Honda	I-LOC
+European	I-LOC
+United	B-ORG
+Kingdom	I-ORG
+Germany	B-LOC
+White	B-ORG
+House	I-ORG
+American	B-LOC
+Senate	B-ORG
+White	I-ORG
+US	B-ORG
+White	I-ORG
+US	B-LOC
+TARP	B-ORG
+Troubled	I-ORG
+Assets	I-ORG
+Dana	B-PERS
+Perino	I-PERS
+White	B-ORG
+House	I-ORG
+Ford	B-LOC
+Chrysler	B-PERS
+General	B-ORG
+Motors	I-ORG
+Congress	I-ORG
+House	I-ORG
+Senate	I-ORG
+Part	B-LOC
+Japanese	I-LOC
+Motors	B-PERS
+North	B-LOC
+American	I-LOC
+Chrysler	B-PERS
+Chrysler	I-PERS
+U.S.	B-LOC
+GM	B-ORG
+Chrysler	B-PERS
+United	B-LOC
+Auto	I-LOC
+UAW	B-ORG
+GM	I-ORG
+Congress	I-ORG
+Detroit	B-LOC
+UAW	B-ORG
+Delco	I-ORG
+Hummer	B-ORG
+Saab	B-PERS
+Automobile	I-PERS
+Ford	B-ORG
+Motor	I-ORG
+Chrysler	B-PERS
+United	B-LOC
+States	I-LOC
+United	I-LOC
+General	B-ORG
+Motors	B-PERS
+Chrysler	I-PERS
+Japanese	B-LOC
+Toyota	B-PERS
+US	B-LOC
+Nissan	B-PERS
+Motors	I-PERS
+Honda	B-LOC
+Subaru	I-LOC
+South	I-LOC
+Hyundai	B-PERS
+Motor	I-PERS
+Company	I-PERS
+US	B-LOC
+US	I-LOC
+GM	B-ORG
+Chrysler	B-PERS
+Chrysler	I-PERS
+United	B-LOC
+States	I-LOC
+Chrysler	B-PERS
+US	B-LOC
+Chrysler	B-PERS
+Chrysler	B-ORG
+Aspen	I-ORG
+PT	I-ORG
+Durango	B-PERS
+General	B-ORG
+Motors	I-ORG
+US	I-ORG
+Rick	B-PERS
+Wagoner	I-PERS
+GM	B-ORG
+General	I-ORG
+US	B-LOC
+Ford	B-ORG
+Motor	I-ORG
+Company	I-ORG
+US	I-ORG
+Chrysler	B-PERS
+Canadian	B-LOC
+US	I-LOC
+Chrysler	B-PERS
+Canada	B-LOC
+Ontario	I-LOC
+Canadian	I-LOC
+US	I-LOC
+Canadian	I-LOC
+United	I-LOC
+Canada	I-LOC
+Stephen	B-PERS
+Harper	I-PERS
+Canada	B-LOC
+American	I-LOC
+America	I-LOC
+Barack	B-PERS
+Obama	I-PERS
+United	B-LOC
+States	I-LOC
+Chrysler	B-PERS
+Chrysler	I-PERS
+Chrysler	I-PERS
+Fiat	I-PERS
+US	B-LOC
+Fiat	I-LOC
+Chrysler	B-PERS
+North	B-LOC
+American	I-LOC
+Chrysler	B-ORG
+Chrysler	B-PERS
+Tom	I-PERS
+Chrysler	I-PERS
+Canadian	B-LOC
+US	I-LOC
+Canadian	I-LOC
+Auto	B-ORG
+Workers	I-ORG
+CAW	I-ORG
+Chrysler	B-PERS
+Canada	B-LOC
+General	B-ORG
+Motor	I-ORG
+Rick	B-PERS
+Wagoner	I-PERS
+Fritz	I-PERS
+Henderson	I-PERS
+GM	B-ORG
+Obama	B-PERS
+Chrysler	I-PERS
+Canada	B-LOC
+GM	B-ORG
+Canadian	B-LOC
+GM	B-ORG
+SUVs	I-ORG
+Tony	B-PERS
+Clement	B-ORG
+Canada	B-LOC
+Industry	I-LOC
+CAW	B-ORG
+United	B-LOC
+Auto	I-LOC
+UAW	B-ORG
+Obama	I-ORG
+Obama	B-PERS
+India	B-LOC
+Chrysler	B-PERS
+US	B-ORG
+India	B-LOC
+US	B-ORG
+US	B-LOC
+US	B-ORG
+Indian	B-LOC
+Canadians	I-LOC
+Betty	B-PERS
+Sutton	B-ORG
+Ohio	B-PERS
+Congresswoman	B-ORG
+CARS	I-ORG
+William	B-PERS
+Clay	I-PERS
+Ford	I-PERS
+Ford	B-ORG
+Motor	I-ORG
+Chrysler	B-PERS
+US	B-ORG
+General	I-ORG
+General	B-ORG
+Motors	I-ORG
+Corporation	I-ORG
+United	B-LOC
+States	I-LOC
+Chrysler	B-PERS
+LLC	I-PERS
+Jim	I-PERS
+Chrysler	I-PERS
+Japanese	B-LOC
+US	I-LOC
+March	I-LOC
+Ford	B-ORG
+GM	I-ORG
+Jesse	B-PERS
+Toprak	I-PERS
+Edmunds	I-PERS
+US	B-LOC
+US	B-ORG
+Toyota	B-PERS
+US	B-ORG
+Chrysler	B-LOC
+Fiat	B-PERS
+Group	I-PERS
+American	B-LOC
+Chrysler	B-PERS
+European	B-LOC
+Fiat	B-PERS
+Chrysler	I-PERS
+United	B-ORG
+Auto	I-ORG
+Workers	I-ORG
+United	B-LOC
+States	I-LOC
+Canadian	I-LOC
+Fiat	B-PERS
+Chrysler	I-PERS
+Robert	I-PERS
+Italian	B-LOC
+Fiat	B-PERS
+Chrysler	I-PERS
+United	B-LOC
+States	I-LOC
+Fiat	I-LOC
+American	I-LOC
+Chrysler	I-LOC
+Chrysler	B-PERS
+Fiat	I-PERS
+Chrysler	I-PERS
+Fiat	I-PERS
+Chrysler	I-PERS
+American	B-LOC
+Obama	B-PERS
+Fiat	I-PERS
+Erich	I-PERS
+Merkle	I-PERS
+Steve	I-PERS
+U.S.	B-LOC
+Obama	I-LOC
+Fiat	I-LOC
+Fiat	I-LOC
+Chrysler	B-PERS
+Chrysler	B-LOC
+United	I-LOC
+Chrysler	I-LOC
+Europe	I-LOC
+US	I-LOC
+United	I-LOC
+General	B-ORG
+Motors	I-ORG
+US	I-ORG
+GM	I-ORG
+Ray	B-PERS
+Young	I-PERS
+GM	B-ORG
+GM	I-ORG
+Himanshu	B-PERS
+Patel	I-PERS
+U.S.	B-LOC
+Chrysler	B-PERS
+American	B-LOC
+Chrysler	B-PERS
+LLC	I-PERS
+US	B-ORG
+Bankruptcy	I-ORG
+Court	I-ORG
+Jim	B-PERS
+Press	I-PERS
+Chrysler	B-LOC
+Company	I-LOC
+Press	B-PERS
+U.S.	B-LOC
+GM	B-ORG
+American	B-LOC
+General	B-ORG
+Motors	I-ORG
+Chrysler	B-PERS
+U.S.	B-LOC
+Chrylser	I-LOC
+GM	B-ORG
+GM	I-ORG
+U.S.	B-LOC
+U.S.	I-LOC
+GM	B-ORG
+GM	I-ORG
+Bankruptcy	B-LOC
+U.S.	I-LOC
+United	I-LOC
+General	B-ORG
+Motors	I-ORG
+GM	I-ORG
+US	I-ORG
+U.S.	B-LOC
+Barack	B-PERS
+Obama	I-PERS
+GM	B-ORG
+GM	I-ORG
+University	I-ORG
+Michigan	B-PERS
+U.S.	B-LOC
+General	B-ORG
+Motors	I-ORG
+United	B-LOC
+States	I-LOC
+General	B-ORG
+Motors	I-ORG
+UTC	I-ORG
+Manhattan	B-LOC
+New	I-LOC
+U.S.	I-LOC
+U.S.	I-LOC
+Lehman	B-ORG
+Brothers	I-ORG
+Washington	I-ORG
+WorldCom	B-ORG
+Barack	B-PERS
+Obama	B-ORG
+GM	I-ORG
+White	I-ORG
+United	B-LOC
+States	I-LOC
+Barack	B-PERS
+Obama	I-PERS
+General	B-ORG
+Motors	I-ORG
+U.S.	B-LOC
+Obama	B-PERS
+General	B-ORG
+Motors	I-ORG
+General	I-ORG
+United	B-LOC
+States	I-LOC
+Canada	I-LOC
+Ontario	I-LOC
+Germany	I-LOC
+GM	B-ORG
+Europe	I-ORG
+General	I-ORG
+United	B-LOC
+States	I-LOC
+US	I-LOC
+General	B-ORG
+Motors	I-ORG
+Chrysler	B-PERS
+Chrysler	B-LOC
+General	B-ORG
+Motors	I-ORG
+Chrysler	B-PERS
+General	B-ORG
+Motors	I-ORG
+General	I-ORG
+Chrysler	B-PERS
+GM	B-ORG
+GM	I-ORG
+GM	I-ORG
+GM	I-ORG
+America	B-LOC
+United	I-LOC
+Charles	B-PERS
+Erwin	I-PERS
+Wilson	I-PERS
+U.S.	B-LOC
+Defense	I-LOC
+General	B-ORG
+Motors	I-ORG
+United	B-LOC
+States	I-LOC
+America	I-LOC
+GM	B-ORG
+New	B-LOC
+New	I-LOC
+Fritz	B-PERS
+Henderson	I-PERS
+General	B-ORG
+Motors	I-ORG
+New	B-LOC
+U.S.	I-LOC
+Henderson	B-PERS
+General	B-ORG
+Motors	I-ORG
+New	B-LOC
+Henderson	B-PERS
+General	B-ORG
+Motors	I-ORG
+United	I-ORG
+Canadian	B-LOC
+Auto	B-ORG
+Workers	I-ORG
+GM	I-ORG
+GM	I-ORG
+GM	I-ORG
+German	B-LOC
+United	I-LOC
+GM	B-ORG
+U.S.	B-LOC
+New	I-LOC
+U.S.	I-LOC
+New	B-ORG
+U.S.	B-LOC
+New	I-LOC
+GM	B-ORG
+General	I-ORG
+Latin	B-LOC
+America	I-LOC
+Europe	I-LOC
+Middle	I-LOC
+Asia	I-LOC
+Pacific	B-ORG
+GM	I-ORG
+China	B-LOC
+New	B-ORG
+New	I-ORG
+China	B-LOC
+U.S.	I-LOC
+GM	B-ORG
+China	B-LOC
+China	I-LOC
+U.S.	I-LOC
+U.S.	I-LOC
+New	B-ORG
+EBIT	I-ORG
+U.S.	B-LOC
+U.S.	I-LOC
+U.S.	I-LOC
+Treasury	B-ORG
+Penske	B-PERS
+Auto	I-PERS
+General	B-ORG
+Motors	I-ORG
+Saturn	B-PERS
+General	B-ORG
+Motors	I-ORG
+Corporation	I-ORG
+American	B-LOC
+Penske	B-ORG
+Automotive	I-ORG
+Group	I-ORG
+PAG	I-ORG
+Saturn	B-PERS
+Corporation	I-PERS
+Saturn	B-ORG
+Sky	I-ORG
+Astra	B-PERS
+Aura	B-ORG
+SUV	I-ORG
+Vue	B-PERS
+Outlook	I-PERS
+Saturn	B-LOC
+United	I-LOC
+Saturn	B-ORG
+Canadian	B-LOC
+Saturn	B-ORG
+Penske	B-LOC
+Saturn	B-PERS
+PAG	B-ORG
+Renault	B-PERS
+Samsung	I-PERS
+Motors	I-PERS
+Korea	B-LOC
+Penske	I-LOC
+Jill	B-PERS
+Lajdziak	I-PERS
+Saturn	I-PERS
+Tom	I-PERS
+Chrysler	B-ORG
+GM	I-ORG
+Serra	B-PERS
+Automotive	B-ORG
+Grand	B-LOC
+Genesee	B-PERS
+County	I-PERS
+Michigan	I-PERS
+Penske	I-PERS
+US	B-LOC
+Ford	B-ORG
+US	B-LOC
+Ford	I-LOC
+Ford	B-ORG
+Alan	B-PERS
+Mulally	I-PERS
+Automaker	I-PERS
+Opel	B-ORG
+US	B-LOC
+General	B-ORG
+Motors	B-PERS
+European	B-LOC
+Opel	B-PERS
+John	I-PERS
+Opel	B-ORG
+Smith	B-PERS
+European	B-LOC
+GM	B-ORG
+Opel	B-PERS
+Magna	B-LOC
+Canadian	I-LOC
+Germany	I-LOC
+GM	B-ORG
+Magna	I-ORG
+Germany	B-LOC
+German	I-LOC
+Rainer	B-PERS
+Bruederle	I-PERS
+German	B-LOC
+North	I-LOC
+General	B-ORG
+Motors	I-ORG
+UK	I-ORG
+Britain	B-LOC
+British	I-LOC
+Unite	B-PERS
+Tony	I-PERS
+General	B-ORG
+Motors	I-ORG
+BBC	I-ORG
+Opel	B-PERS
+Germany	B-LOC
+US	B-ORG
+US	B-LOC
+Ford	B-ORG
+Ford	I-ORG
+US	B-LOC
+Alan	B-PERS
+Mulally	I-PERS
+Ford	B-ORG
+Ford	B-LOC
+US	B-ORG
+United	B-LOC
+States	I-LOC
+Toyota	B-PERS
+General	B-ORG
+Motors	I-ORG
+Ford	B-PERS
+GM	B-ORG
+Ford	B-PERS
+US	B-LOC
+Ford	B-ORG
+Ford	B-LOC
+Rental	I-LOC
+Fusion	B-ORG
+Taurus	B-LOC
+SUVs	B-ORG
+Toyota	B-PERS
+Ken	I-PERS
+Ford	B-ORG
+Fiat	B-LOC
+Chrysler	I-LOC
+Fiat	B-PERS
+Chrysler	I-PERS
+US	B-LOC
+Italian	I-LOC
+Chrysler	I-LOC
+Fiat	B-PERS
+US	B-ORG
+Treasury	I-ORG
+Chrysler	B-LOC
+US	I-LOC
+Fiat	B-PERS
+Fiat	I-PERS
+Chrysler	B-LOC
+Maryann	B-PERS
+Keller	I-PERS
+Analyst	I-PERS
+Rebecca	I-PERS
+Ford	B-ORG
+Motor	I-ORG
+Company	I-ORG
+America	B-LOC
+North	I-LOC
+American	I-LOC
+Ford	B-ORG
+William	B-PERS
+Clay	I-PERS
+Ford	I-PERS
+Ford	B-ORG
+North	B-LOC
+American	I-LOC
+Ford	B-ORG
+North	B-LOC
+American	I-LOC
+Ford	B-ORG
+Atlanta	I-ORG
+St.	B-LOC
+Atlanta	I-LOC
+Ford	B-ORG
+Taurus	I-ORG
+St.	I-ORG
+Ford	B-ORG
+Explorer	I-ORG
+Michigan	B-PERS
+Batavia	I-PERS
+Ohio	B-LOC
+Windsor	B-ORG
+Ontario	B-LOC
+Canadian	I-LOC
+Auto	B-ORG
+Workers	I-ORG
+St.	B-LOC
+Thomas	I-LOC
+Ontario	I-LOC
+Crown	B-ORG
+Victoria	I-ORG
+Grand	B-PERS
+Marquis	I-PERS
+Whitey	I-PERS
+Local	B-ORG
+1520	I-ORG
+Canadian	B-LOC
+Auto	B-ORG
+Workers	I-ORG
+Ford	I-ORG
+Automotive	B-LOC
+Dennis	B-PERS
+St.	B-ORG
+Thomas	I-ORG
+Ford	I-ORG
+United	I-ORG
+Ford	B-ORG
+UAW	I-ORG
+Ron	B-PERS
+Gettelfinger	I-PERS
+Gerald	I-PERS
+UAW	B-ORG
+Ford	I-ORG
+General	I-ORG
+General	B-ORG
+Motors	I-ORG
+Corporation	I-ORG
+GM	I-ORG
+US	I-ORG
+US	I-ORG
+Ford	B-LOC
+American	I-LOC
+Toyota	B-PERS
+North	B-LOC
+America	I-LOC
+GM	B-ORG
+Japanese	B-LOC
+Toyota	B-PERS
+Nissan	B-LOC
+GM	B-ORG
+Kirk	B-PERS
+Kerkorian	I-PERS
+GMs	B-ORG
+Saab	B-PERS
+Australian	B-LOC
+Ford	B-ORG
+Australian	B-LOC
+John	B-PERS
+Howard	I-PERS
+Ian	I-PERS
+Ford	B-ORG
+Australia	I-ORG
+US	I-ORG
+Victorian	B-LOC
+Howard	B-PERS
+Ford	B-ORG
+Australia	B-LOC
+Ford	B-ORG
+Falcon	B-PERS
+Territory	B-ORG
+Australia	B-LOC
+Falcon	B-ORG
+Falcon	B-PERS
+Holden	I-PERS
+Falcon	B-ORG
+Howard	B-PERS
+MacFarlane	B-ORG
+Australia	B-LOC
+Australian	I-LOC
+Ford	B-ORG
+Australia	I-ORG
+Australia	B-LOC
+Australian	I-LOC
+Ford	B-ORG
+Australia	I-ORG
+Asia	B-LOC
+Australia	I-LOC
+Australian	I-LOC
+MacFarlane	B-ORG
+Howard	B-PERS
+Australia	B-LOC
+Ford	B-ORG
+Australian	B-LOC
+Ford	I-LOC
+US	B-ORG
+Canadian	B-LOC
+U.S.	I-LOC
+George	B-PERS
+Pipas	B-LOC
+Ford	B-ORG
+SUV	I-ORG
+Thomas	B-PERS
+Assembly	I-PERS
+St.	B-LOC
+Thomas	I-LOC
+Ontario	B-PERS
+Canada	I-PERS
+Chicago	B-LOC
+Illinois	B-PERS
+Wixom	I-PERS
+Wixom	B-LOC
+Michigan	B-PERS
+Michigan	I-PERS
+Louisville	I-PERS
+Louisville	B-LOC
+Kentucky	B-PERS
+Michigan	I-PERS
+Wayne	B-LOC
+Michigan	B-PERS
+Paul	I-PERS
+Minnesota	I-PERS
+Kansas	I-PERS
+Kansas	I-PERS
+Missouri	I-PERS
+Norfolk	I-PERS
+Norfolk	B-LOC
+Virginia	B-PERS
+Dearborn	B-LOC
+Michigan	B-PERS
+Ford	I-PERS
+New	B-LOC
+York	I-LOC
+Alan	B-PERS
+Mulally	I-PERS
+Ford	B-ORG
+Ford	I-ORG
+Taurus	B-LOC
+Mulally	I-LOC
+Ford	B-PERS
+Mulally	I-PERS
+Ford	B-ORG
+Taurus	I-ORG
+Falcon	I-ORG
+Ford	I-ORG
+American	B-LOC
+Taurus	B-ORG
+Taurus	B-LOC
+Alan	B-PERS
+Mulally	I-PERS
+America	B-LOC
+Five	B-ORG
+Hundred	I-ORG
+Taurus	B-LOC
+Taurus	I-LOC
+DaimlerChrysler	B-ORG
+International	B-LOC
+DaimlerChrysler	B-ORG
+North	B-LOC
+America	I-LOC
+Chrysler	B-PERS
+U.S.	B-LOC
+Canada	I-LOC
+Chrysler	B-ORG
+Solaris	I-ORG
+Tim	B-PERS
+Ghriskey	I-PERS
+Chrysler	I-PERS
+DaimlerChrysler	B-ORG
+Dieter	B-PERS
+Zetsche	I-PERS
+Chrysler	B-ORG
+Group	I-ORG
+DaimlerChrysler	I-ORG
+DaimlerChrysler	B-LOC
+Chrysler	B-PERS
+Group	I-PERS
+DaimlerChrysler	B-ORG
+Corporation	I-ORG
+Chrysler	I-ORG
+New	B-LOC
+York	I-LOC
+Cerberus	B-PERS
+Capital	I-PERS
+Management	I-PERS
+US	B-LOC
+Daimler	B-PERS
+AG	I-PERS
+Chrysler	I-PERS
+DaimlerChrysler	B-ORG
+Chrysler	B-LOC
+Cerberus	I-LOC
+Chrysler	B-ORG
+Cerberus	B-LOC
+GMAC	I-LOC
+GM	B-ORG
+Delphi	I-ORG
+Buzz	B-PERS
+Hargrove	I-PERS
+Canadian	B-LOC
+Auto	B-ORG
+Workers	I-ORG
+Chrysler	B-PERS
+German	B-LOC
+DaimlerChrysler	B-ORG
+Daimler	B-PERS
+AG	I-PERS
+US	B-LOC
+Romanian	I-LOC
+U.S.	I-LOC
+US	B-ORG
+Romanian	B-LOC
+Romanian	I-LOC
+Ford	B-ORG
+Motor	I-ORG
+Company	I-ORG
+Sebastian	B-PERS
+Vladescu	I-PERS
+State	B-ORG
+Property	I-ORG
+Agency	I-ORG
+AVAS	I-ORG
+Ford	I-ORG
+Vladescu	B-PERS
+Frankfurt	B-LOC
+Romanian	I-LOC
+Daewoo	B-ORG
+Motors	I-ORG
+US	B-LOC
+Korean	I-LOC
+Washington	I-LOC
+European	I-LOC
+Union	B-ORG
+Renault	B-PERS
+Dacia	B-LOC
+Constantin	B-ORG
+Stroe	I-ORG
+Romania	B-LOC
+Europe	I-LOC
+Stroe	B-PERS
+HotNews	B-ORG
